@@ -7,12 +7,21 @@ import pandas as pd
 from difflib import get_close_matches
 
 import pandas as pd
+import os
+
+BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+
+COUNTRY_CSV = os.path.join(
+    BASE_DIR,
+    "Dataset",
+    "Preprocessed",
+    "Final_Clustered_Dataset.csv"
+)
+
 
 def get_all_countries():
 
-    df = pd.read_csv(
-        r"E:\2nd_Sem\AIML\Project\Dataset\Preprocessed\Final_Clustered_Dataset.csv"
-    )
+    df = pd.read_csv(COUNTRY_CSV)
 
     countries = sorted(
         df['Country Name'].dropna().unique().tolist()
