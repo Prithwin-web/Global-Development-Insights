@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+{% block title %}Error — Global Development Insights{% endblock %}
+
+{% block content %}
+<div class="error-wrap">
+  <div class="error-card">
+    <div class="error-icon">🌐</div>
+    <h2 class="error-title">Country Not Available</h2>
+    <p class="error-msg">
+      {% if error %}
+        {{ error }}
+      {% else %}
+        The requested country could not be found in our dataset.
+      {% endif %}
+    </p>
+    {% if country_name %}
+    <p class="error-hint">
+      We couldn't find <strong>"{{ country_name }}"</strong> in the dataset.
+      Please check the spelling or try one of the examples below.
+    </p>
+    {% endif %}
+
+    <div class="error-examples mt-3">
+      <p class="mb-2 text-muted small fw-semibold">Try searching for:</p>
+      <div class="d-flex flex-wrap gap-2 justify-content-center">
+        {% for c in ['India', 'China', 'United States', 'Germany', 'Japan', 'Brazil', 'Nigeria', 'Australia'] %}
+        <form action="{{ url_for('search') }}" method="POST">
+          <input type="hidden" name="country_name" value="{{ c }}"/>
+          <button type="submit" class="example-chip">{{ c }}</button>
+        </form>
+        {% endfor %}
+      </div>
+    </div>
+
+    <div class="mt-4">
+      <a href="{{ url_for('index') }}" class="btn-back">
+        <i class="bi bi-arrow-left me-2"></i> Back to Dashboard
+      </a>
+    </div>
+  </div>
+</div>
+{% endblock %}

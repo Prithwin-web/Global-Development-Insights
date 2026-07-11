@@ -1,0 +1,228 @@
+{% extends "base.html" %}
+{% block title %}Global Development Insights — Dashboard{% endblock %}
+
+{% block content %}
+
+<!-- ── PAGE HEADER ── -->
+<div class="page-header">
+  <div>
+    <h1 class="page-title">Global Development Insights</h1>
+    <p class="page-subtitle">Analyze and Forecast Global Development Trends · 2014–2040</p>
+  </div>
+  <div class="page-header-meta">
+    <span class="badge-year"><i class="bi bi-calendar3"></i> 2014 – 2040</span>
+  </div>
+</div>
+
+<!-- ── HERO SEARCH ── -->
+<div class="hero-search-wrap">
+  <div class="hero-search-card">
+    <div class="hero-search-inner">
+      <div class="hero-search-text">
+        <h2>Explore Country Development</h2>
+        <p>Search any country to view historical trends and future forecasts.</p>
+      </div>
+      <form action="{{ url_for('search') }}" method="POST" class="hero-form">
+        <div class="hero-input-group">
+          <i class="bi bi-search hero-search-icon"></i>
+          <input
+            type="text"
+            name="country_name"
+            class="hero-input"
+            placeholder="Enter Country Name (e.g. India, Germany, Japan…)"
+            list="country-list"
+            autocomplete="off"
+            required
+          />
+          <button type="submit" class="hero-btn">
+            <i class="bi bi-arrow-right-circle-fill me-1"></i> Explore
+          </button>
+        </div>
+      </form>
+      
+      <datalist id="country-list">
+        {% for country in all_countries %}
+          <option value="{{ country }}">
+        {% endfor %}
+      </datalist>
+
+      <div class="hero-examples">
+        <span class="example-label">Popular:</span>
+        {% for c in ['India', 'China', 'United States', 'Germany', 'Japan', 'Brazil'] %}
+        <form action="{{ url_for('search') }}" method="POST" class="d-inline">
+          <input type="hidden" name="country_name" value="{{ c }}"/>
+          <button type="submit" class="example-chip">{{ c }}</button>
+        </form>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── STATS CARDS ── -->
+<div class="row g-3 mt-1">
+
+  <!-- Card 1: Total Countries -->
+  <div class="col-12 col-sm-6 col-xl-3">
+    <div class="stat-card">
+      <div class="stat-card-left">
+        <div class="stat-label">Total Countries</div>
+        <div class="stat-value">{{ total_countries }}</div>
+        <div class="stat-change positive">
+          <i class="bi bi-arrow-up-right"></i> Global Coverage
+        </div>
+      </div>
+      <div class="stat-ring-wrap">
+        <svg class="stat-ring" viewBox="0 0 56 56">
+          <circle cx="28" cy="28" r="22" class="ring-bg"/>
+          <circle cx="28" cy="28" r="22" class="ring-fill ring-blue"
+                  stroke-dasharray="{{ (total_countries / 200 * 138) | round(1) }} 138"/>
+        </svg>
+        <span class="ring-label">{{ ((total_countries / 200) * 100) | round(0) | int }}%</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Card 2: Latest Year -->
+  <div class="col-12 col-sm-6 col-xl-3">
+    <div class="stat-card">
+      <div class="stat-card-left">
+        <div class="stat-label">Latest Data Year</div>
+        <div class="stat-value">{{ latest_year }}</div>
+        <div class="stat-change positive">
+          <i class="bi bi-arrow-up-right"></i> Historical up to {{ latest_year }}
+        </div>
+      </div>
+      <div class="stat-ring-wrap">
+        <svg class="stat-ring" viewBox="0 0 56 56">
+          <circle cx="28" cy="28" r="22" class="ring-bg"/>
+          <circle cx="28" cy="28" r="22" class="ring-fill ring-blue"
+                  stroke-dasharray="110 138"/>
+        </svg>
+        <span class="ring-label">100%</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Card 3: Avg Dev Score -->
+  <div class="col-12 col-sm-6 col-xl-3">
+    <div class="stat-card">
+      <div class="stat-card-left">
+        <div class="stat-label">Avg Development Score</div>
+        <div class="stat-value">{{ avg_dev_score }}</div>
+        <div class="stat-change positive">
+          <i class="bi bi-arrow-up-right"></i> Global Average {{ latest_year }}
+        </div>
+      </div>
+      <div class="stat-ring-wrap">
+        <svg class="stat-ring" viewBox="0 0 56 56">
+          <circle cx="28" cy="28" r="22" class="ring-bg"/>
+          <circle cx="28" cy="28" r="22" class="ring-fill ring-green"
+                  stroke-dasharray="{{ (avg_dev_score / 100 * 138) | round(1) }} 138"/>
+        </svg>
+        <span class="ring-label">{{ avg_dev_score | round(0) | int }}%</span>
+      </div>
+    </div>
+  </div>
+
+  <!-- Card 4: Highly Developed -->
+  <div class="col-12 col-sm-6 col-xl-3">
+    <div class="stat-card">
+      <div class="stat-card-left">
+        <div class="stat-label">Highly Developed</div>
+        <div class="stat-value">{{ highly_developed }}</div>
+        <div class="stat-change positive">
+          <i class="bi bi-arrow-up-right"></i> Nations in {{ latest_year }}
+        </div>
+      </div>
+      <div class="stat-ring-wrap">
+        <svg class="stat-ring" viewBox="0 0 56 56">
+          <circle cx="28" cy="28" r="22" class="ring-bg"/>
+          {% set pct = (highly_developed / (total_countries if total_countries > 0 else 1) * 138) | round(1) %}
+          <circle cx="28" cy="28" r="22" class="ring-fill ring-red"
+                  stroke-dasharray="{{ pct }} 138"/>
+        </svg>
+        <span class="ring-label">{{ ((highly_developed / (total_countries if total_countries > 0 else 1)) * 100) | round(0) | int }}%</span>
+      </div>
+    </div>
+  </div>
+
+</div><!-- /row -->
+
+<!-- ── DEVELOPMENT BREAKDOWN ── -->
+<div class="row g-3 mt-1">
+  <div class="col-12 col-lg-8">
+    <div class="panel">
+      <div class="panel-header">
+        <div>
+          <div class="panel-title">Development Level Distribution</div>
+          <div class="panel-subtitle">Countries by development status in {{ latest_year }}</div>
+        </div>
+      </div>
+      <div class="panel-body">
+        <!-- Visual bars -->
+        {% set total = underdeveloped + developing + highly_developed %}
+        {% if total > 0 %}
+        <div class="dev-dist-row">
+          <div class="dev-dist-label">
+            <span class="dot-status dot-red"></span> Underdeveloped
+          </div>
+          <div class="dev-dist-bar-wrap">
+            <div class="dev-dist-bar bar-red" style="width:{{ ((underdeveloped/(total if total > 0 else 1))*100)|round(1) }}%"></div>
+          </div>
+          <div class="dev-dist-count">{{ underdeveloped }} <small>({{ (underdeveloped/total*100)|round(1) }}%)</small></div>
+        </div>
+        <div class="dev-dist-row">
+          <div class="dev-dist-label">
+            <span class="dot-status dot-yellow"></span> Developing
+          </div>
+          <div class="dev-dist-bar-wrap">
+            <div class="dev-dist-bar bar-yellow" style="width:{{ ((developing/(total if total > 0 else 1))*100)|round(1) }}%"></div>
+          </div>
+          <div class="dev-dist-count">{{ developing }} <small>({{ (developing/total*100)|round(1) }}%)</small></div>
+        </div>
+        <div class="dev-dist-row">
+          <div class="dev-dist-label">
+            <span class="dot-status dot-green"></span> Highly Developed
+          </div>
+          <div class="dev-dist-bar-wrap">
+            <div class="dev-dist-bar bar-green" style="width:{{ ((highly_developed/(total if total > 0 else 1))*100)|round(1) }}%"></div>
+          </div>
+          <div class="dev-dist-count">{{ highly_developed }} <small>({{ (highly_developed/total*100)|round(1) }}%)</small></div>
+        </div>
+        {% else %}
+        <p class="text-muted">No data available.</p>
+        {% endif %}
+      </div>
+    </div>
+  </div>
+
+  <div class="col-12 col-lg-4">
+    <div class="panel h-100">
+      <div class="panel-header">
+        <div class="panel-title">Quick Links</div>
+      </div>
+      <div class="panel-body">
+        {% for c in ['India', 'China', 'United States', 'Germany', 'Japan', 'Brazil', 'Nigeria', 'Australia'] %}
+        <form action="{{ url_for('search') }}" method="POST" class="mb-2">
+          <input type="hidden" name="country_name" value="{{ c }}"/>
+          <button type="submit" class="quick-link-btn w-100">
+            <i class="bi bi-search me-2 text-primary"></i>{{ c }}
+            <i class="bi bi-chevron-right ms-auto"></i>
+          </button>
+        </form>
+        {% endfor %}
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- ── FOOTER INFO ── -->
+<div class="footer-info mt-4">
+  <span><i class="bi bi-database me-1"></i> Historical: 2014–2024</span>
+  <span><i class="bi bi-graph-up-arrow me-1"></i> Forecast: 2025–2040</span>
+  <span><i class="bi bi-cpu me-1"></i> Powered by ML Clustering</span>
+  <span><i class="bi bi-shield-check me-1"></i> AIML Project · 2nd Semester</span>
+</div>
+
+{% endblock %}

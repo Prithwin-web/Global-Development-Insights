@@ -1,0 +1,5 @@
+import pandas as pd
+
+df = pd.read_csv(r"E:\2nd_Sem\AIML\Project\Dataset\Preprocessed\Master_Development_Dataset.csv")
+
+print(df.columns.tolist())

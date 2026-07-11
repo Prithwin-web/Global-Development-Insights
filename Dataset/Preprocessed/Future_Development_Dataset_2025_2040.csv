@@ -1,0 +1,2561 @@
+Country Name,Year,GDP_Per_Capita,Development_Score,Development_Level
+Afghanistan,2025,344.74,31.42,Underdeveloped
+Afghanistan,2026,322.23,32.15,Underdeveloped
+Afghanistan,2027,299.71,32.88,Underdeveloped
+Afghanistan,2028,277.2,33.61,Underdeveloped
+Afghanistan,2029,254.68,34.34,Underdeveloped
+Afghanistan,2030,232.16,35.07,Underdeveloped
+Afghanistan,2031,209.65,35.81,Underdeveloped
+Afghanistan,2032,187.13,36.54,Underdeveloped
+Afghanistan,2033,164.62,37.27,Underdeveloped
+Afghanistan,2034,142.1,38.0,Underdeveloped
+Afghanistan,2035,119.59,38.73,Underdeveloped
+Afghanistan,2036,97.07,39.46,Underdeveloped
+Afghanistan,2037,74.56,40.19,Developing
+Afghanistan,2038,52.04,40.92,Developing
+Afghanistan,2039,29.53,41.66,Developing
+Afghanistan,2040,7.01,42.39,Developing
+Albania,2025,10389.84,65.71,Developing
+Albania,2026,11022.08,67.01,Developing
+Albania,2027,11654.32,68.32,Developing
+Albania,2028,12286.56,69.63,Developing
+Albania,2029,12918.8,70.94,Highly Developed
+Albania,2030,13551.05,72.24,Highly Developed
+Albania,2031,14183.29,73.55,Highly Developed
+Albania,2032,14815.53,74.86,Highly Developed
+Albania,2033,15447.77,76.17,Highly Developed
+Albania,2034,16080.02,77.47,Highly Developed
+Albania,2035,16712.26,78.78,Highly Developed
+Albania,2036,17344.5,80.09,Highly Developed
+Albania,2037,17976.74,81.4,Highly Developed
+Albania,2038,18608.98,82.7,Highly Developed
+Albania,2039,19241.23,84.01,Highly Developed
+Albania,2040,19873.47,85.32,Highly Developed
+Algeria,2025,4854.84,61.28,Developing
+Algeria,2026,4864.09,62.77,Developing
+Algeria,2027,4873.34,64.27,Developing
+Algeria,2028,4882.59,65.76,Developing
+Algeria,2029,4891.83,67.26,Developing
+Algeria,2030,4901.08,68.75,Developing
+Algeria,2031,4910.33,70.24,Highly Developed
+Algeria,2032,4919.58,71.74,Highly Developed
+Algeria,2033,4928.82,73.23,Highly Developed
+Algeria,2034,4938.07,74.73,Highly Developed
+Algeria,2035,4947.32,76.22,Highly Developed
+Algeria,2036,4956.57,77.72,Highly Developed
+Algeria,2037,4965.81,79.21,Highly Developed
+Algeria,2038,4975.06,80.71,Highly Developed
+Algeria,2039,4984.31,82.2,Highly Developed
+Algeria,2040,4993.56,83.7,Highly Developed
+Andorra,2025,45776.5,72.81,Highly Developed
+Andorra,2026,46341.95,73.04,Highly Developed
+Andorra,2027,46907.39,73.27,Highly Developed
+Andorra,2028,47472.84,73.5,Highly Developed
+Andorra,2029,48038.29,73.73,Highly Developed
+Andorra,2030,48603.74,73.96,Highly Developed
+Andorra,2031,49169.18,74.2,Highly Developed
+Andorra,2032,49734.63,74.43,Highly Developed
+Andorra,2033,50300.08,74.66,Highly Developed
+Andorra,2034,50865.53,74.89,Highly Developed
+Andorra,2035,51430.97,75.12,Highly Developed
+Andorra,2036,51996.42,75.35,Highly Developed
+Andorra,2037,52561.87,75.58,Highly Developed
+Andorra,2038,53127.32,75.81,Highly Developed
+Andorra,2039,53692.76,76.04,Highly Developed
+Andorra,2040,54258.21,76.27,Highly Developed
+Angola,2025,2164.74,42.78,Developing
+Angola,2026,2028.33,44.11,Developing
+Angola,2027,1891.93,45.43,Developing
+Angola,2028,1755.52,46.75,Developing
+Angola,2029,1619.11,48.07,Developing
+Angola,2030,1482.7,49.4,Developing
+Angola,2031,1346.29,50.72,Developing
+Angola,2032,1209.89,52.04,Developing
+Angola,2033,1073.48,53.36,Developing
+Angola,2034,937.07,54.68,Developing
+Angola,2035,800.66,56.01,Developing
+Angola,2036,664.25,57.33,Developing
+Angola,2037,527.84,58.65,Developing
+Angola,2038,391.44,59.97,Developing
+Angola,2039,255.03,61.3,Developing
+Angola,2040,118.62,62.62,Developing
+Antigua and Barbuda,2025,22027.12,61.17,Developing
+Antigua and Barbuda,2026,22665.54,61.37,Developing
+Antigua and Barbuda,2027,23303.96,61.58,Developing
+Antigua and Barbuda,2028,23942.39,61.78,Developing
+Antigua and Barbuda,2029,24580.81,61.99,Developing
+Antigua and Barbuda,2030,25219.23,62.19,Developing
+Antigua and Barbuda,2031,25857.65,62.4,Developing
+Antigua and Barbuda,2032,26496.07,62.6,Developing
+Antigua and Barbuda,2033,27134.49,62.8,Developing
+Antigua and Barbuda,2034,27772.91,63.01,Developing
+Antigua and Barbuda,2035,28411.33,63.21,Developing
+Antigua and Barbuda,2036,29049.76,63.42,Developing
+Antigua and Barbuda,2037,29688.18,63.62,Developing
+Antigua and Barbuda,2038,30326.6,63.83,Developing
+Antigua and Barbuda,2039,30965.02,64.03,Developing
+Antigua and Barbuda,2040,31603.44,64.23,Developing
+Argentina,2025,12610.64,59.9,Developing
+Argentina,2026,12646.93,60.16,Developing
+Argentina,2027,12683.23,60.41,Developing
+Argentina,2028,12719.53,60.66,Developing
+Argentina,2029,12755.82,60.92,Developing
+Argentina,2030,12792.12,61.17,Developing
+Argentina,2031,12828.41,61.43,Developing
+Argentina,2032,12864.71,61.68,Developing
+Argentina,2033,12901.01,61.93,Developing
+Argentina,2034,12937.3,62.19,Developing
+Argentina,2035,12973.6,62.44,Developing
+Argentina,2036,13009.9,62.69,Developing
+Argentina,2037,13046.19,62.95,Developing
+Argentina,2038,13082.49,63.2,Developing
+Argentina,2039,13118.78,63.45,Developing
+Argentina,2040,13155.08,63.71,Developing
+Armenia,2025,7960.48,63.53,Developing
+Armenia,2026,8441.89,64.77,Developing
+Armenia,2027,8923.29,66.0,Developing
+Armenia,2028,9404.7,67.24,Developing
+Armenia,2029,9886.11,68.48,Developing
+Armenia,2030,10367.52,69.71,Developing
+Armenia,2031,10848.92,70.95,Highly Developed
+Armenia,2032,11330.33,72.19,Highly Developed
+Armenia,2033,11811.74,73.42,Highly Developed
+Armenia,2034,12293.15,74.66,Highly Developed
+Armenia,2035,12774.55,75.9,Highly Developed
+Armenia,2036,13255.96,77.13,Highly Developed
+Armenia,2037,13737.37,78.37,Highly Developed
+Armenia,2038,14218.78,79.61,Highly Developed
+Armenia,2039,14700.18,80.84,Highly Developed
+Armenia,2040,15181.59,82.08,Highly Developed
+Australia,2025,63709.73,76.36,Highly Developed
+Australia,2026,64567.89,76.97,Highly Developed
+Australia,2027,65426.04,77.58,Highly Developed
+Australia,2028,66284.2,78.19,Highly Developed
+Australia,2029,67142.36,78.8,Highly Developed
+Australia,2030,68000.51,79.41,Highly Developed
+Australia,2031,68858.67,80.02,Highly Developed
+Australia,2032,69716.82,80.63,Highly Developed
+Australia,2033,70574.98,81.24,Highly Developed
+Australia,2034,71433.14,81.85,Highly Developed
+Australia,2035,72291.29,82.46,Highly Developed
+Australia,2036,73149.45,83.07,Highly Developed
+Australia,2037,74007.6,83.68,Highly Developed
+Australia,2038,74865.76,84.29,Highly Developed
+Australia,2039,75723.92,84.9,Highly Developed
+Australia,2040,76582.07,85.52,Highly Developed
+Austria,2025,57157.5,73.77,Highly Developed
+Austria,2026,58227.9,74.16,Highly Developed
+Austria,2027,59298.31,74.55,Highly Developed
+Austria,2028,60368.71,74.94,Highly Developed
+Austria,2029,61439.12,75.34,Highly Developed
+Austria,2030,62509.52,75.73,Highly Developed
+Austria,2031,63579.93,76.12,Highly Developed
+Austria,2032,64650.34,76.51,Highly Developed
+Austria,2033,65720.74,76.91,Highly Developed
+Austria,2034,66791.15,77.3,Highly Developed
+Austria,2035,67861.55,77.69,Highly Developed
+Austria,2036,68931.96,78.09,Highly Developed
+Austria,2037,70002.36,78.48,Highly Developed
+Austria,2038,71072.77,78.87,Highly Developed
+Austria,2039,72143.17,79.26,Highly Developed
+Austria,2040,73213.58,79.66,Highly Developed
+Azerbaijan,2025,6645.11,63.39,Developing
+Azerbaijan,2026,6801.26,63.7,Developing
+Azerbaijan,2027,6957.41,64.01,Developing
+Azerbaijan,2028,7113.57,64.32,Developing
+Azerbaijan,2029,7269.72,64.63,Developing
+Azerbaijan,2030,7425.87,64.94,Developing
+Azerbaijan,2031,7582.02,65.26,Developing
+Azerbaijan,2032,7738.17,65.57,Developing
+Azerbaijan,2033,7894.32,65.88,Developing
+Azerbaijan,2034,8050.48,66.19,Developing
+Azerbaijan,2035,8206.63,66.5,Developing
+Azerbaijan,2036,8362.78,66.81,Developing
+Azerbaijan,2037,8518.93,67.12,Developing
+Azerbaijan,2038,8675.08,67.44,Developing
+Azerbaijan,2039,8831.23,67.75,Developing
+Azerbaijan,2040,8987.39,68.06,Developing
+Bahrain,2025,29986.65,74.58,Highly Developed
+Bahrain,2026,30541.1,75.09,Highly Developed
+Bahrain,2027,31095.55,75.6,Highly Developed
+Bahrain,2028,31650.0,76.11,Highly Developed
+Bahrain,2029,32204.44,76.62,Highly Developed
+Bahrain,2030,32758.89,77.13,Highly Developed
+Bahrain,2031,33313.34,77.65,Highly Developed
+Bahrain,2032,33867.79,78.16,Highly Developed
+Bahrain,2033,34422.23,78.67,Highly Developed
+Bahrain,2034,34976.68,79.18,Highly Developed
+Bahrain,2035,35531.13,79.69,Highly Developed
+Bahrain,2036,36085.58,80.21,Highly Developed
+Bahrain,2037,36640.02,80.72,Highly Developed
+Bahrain,2038,37194.47,81.23,Highly Developed
+Bahrain,2039,37748.92,81.74,Highly Developed
+Bahrain,2040,38303.37,82.25,Highly Developed
+Bangladesh,2025,3004.08,52.83,Developing
+Bangladesh,2026,3164.36,55.36,Developing
+Bangladesh,2027,3324.63,57.89,Developing
+Bangladesh,2028,3484.9,60.42,Developing
+Bangladesh,2029,3645.17,62.95,Developing
+Bangladesh,2030,3805.45,65.48,Developing
+Bangladesh,2031,3965.72,68.01,Developing
+Bangladesh,2032,4125.99,70.54,Highly Developed
+Bangladesh,2033,4286.27,73.07,Highly Developed
+Bangladesh,2034,4446.54,75.6,Highly Developed
+Bangladesh,2035,4606.81,78.13,Highly Developed
+Bangladesh,2036,4767.09,80.66,Highly Developed
+Bangladesh,2037,4927.36,83.2,Highly Developed
+Bangladesh,2038,5087.63,85.73,Highly Developed
+Bangladesh,2039,5247.91,88.26,Highly Developed
+Bangladesh,2040,5408.18,90.79,Highly Developed
+Barbados,2025,25429.7,59.52,Developing
+Barbados,2026,26012.22,59.6,Developing
+Barbados,2027,26594.74,59.68,Developing
+Barbados,2028,27177.26,59.76,Developing
+Barbados,2029,27759.78,59.83,Developing
+Barbados,2030,28342.3,59.91,Developing
+Barbados,2031,28924.82,59.99,Developing
+Barbados,2032,29507.34,60.07,Developing
+Barbados,2033,30089.86,60.15,Developing
+Barbados,2034,30672.38,60.23,Developing
+Barbados,2035,31254.9,60.3,Developing
+Barbados,2036,31837.42,60.38,Developing
+Barbados,2037,32419.94,60.46,Developing
+Barbados,2038,33002.46,60.54,Developing
+Barbados,2039,33584.98,60.62,Developing
+Barbados,2040,34167.5,60.69,Developing
+Belarus,2025,8055.16,70.11,Highly Developed
+Belarus,2026,8237.49,71.28,Highly Developed
+Belarus,2027,8419.82,72.44,Highly Developed
+Belarus,2028,8602.15,73.61,Highly Developed
+Belarus,2029,8784.48,74.78,Highly Developed
+Belarus,2030,8966.81,75.94,Highly Developed
+Belarus,2031,9149.14,77.11,Highly Developed
+Belarus,2032,9331.47,78.28,Highly Developed
+Belarus,2033,9513.79,79.45,Highly Developed
+Belarus,2034,9696.12,80.61,Highly Developed
+Belarus,2035,9878.45,81.78,Highly Developed
+Belarus,2036,10060.78,82.95,Highly Developed
+Belarus,2037,10243.11,84.12,Highly Developed
+Belarus,2038,10425.44,85.28,Highly Developed
+Belarus,2039,10607.77,86.45,Highly Developed
+Belarus,2040,10790.09,87.62,Highly Developed
+Belgium,2025,55765.59,75.0,Highly Developed
+Belgium,2026,57043.8,75.65,Highly Developed
+Belgium,2027,58322.01,76.31,Highly Developed
+Belgium,2028,59600.22,76.96,Highly Developed
+Belgium,2029,60878.43,77.61,Highly Developed
+Belgium,2030,62156.64,78.26,Highly Developed
+Belgium,2031,63434.85,78.92,Highly Developed
+Belgium,2032,64713.06,79.57,Highly Developed
+Belgium,2033,65991.27,80.22,Highly Developed
+Belgium,2034,67269.48,80.87,Highly Developed
+Belgium,2035,68547.69,81.53,Highly Developed
+Belgium,2036,69825.9,82.18,Highly Developed
+Belgium,2037,71104.11,82.83,Highly Developed
+Belgium,2038,72382.32,83.48,Highly Developed
+Belgium,2039,73660.53,84.14,Highly Developed
+Belgium,2040,74938.74,84.79,Highly Developed
+Belize,2025,7203.0,59.15,Developing
+Belize,2026,7339.34,60.44,Developing
+Belize,2027,7475.68,61.73,Developing
+Belize,2028,7612.01,63.02,Developing
+Belize,2029,7748.35,64.31,Developing
+Belize,2030,7884.69,65.6,Developing
+Belize,2031,8021.02,66.89,Developing
+Belize,2032,8157.36,68.18,Developing
+Belize,2033,8293.7,69.47,Developing
+Belize,2034,8430.03,70.76,Highly Developed
+Belize,2035,8566.37,72.05,Highly Developed
+Belize,2036,8702.71,73.34,Highly Developed
+Belize,2037,8839.04,74.63,Highly Developed
+Belize,2038,8975.38,75.92,Highly Developed
+Belize,2039,9111.72,77.21,Highly Developed
+Belize,2040,9248.05,78.5,Highly Developed
+Benin,2025,1437.18,32.47,Underdeveloped
+Benin,2026,1476.41,32.94,Underdeveloped
+Benin,2027,1515.64,33.4,Underdeveloped
+Benin,2028,1554.87,33.87,Underdeveloped
+Benin,2029,1594.1,34.34,Underdeveloped
+Benin,2030,1633.34,34.8,Underdeveloped
+Benin,2031,1672.57,35.27,Underdeveloped
+Benin,2032,1711.8,35.73,Underdeveloped
+Benin,2033,1751.03,36.2,Underdeveloped
+Benin,2034,1790.26,36.66,Underdeveloped
+Benin,2035,1829.49,37.13,Underdeveloped
+Benin,2036,1868.72,37.59,Underdeveloped
+Benin,2037,1907.95,38.06,Underdeveloped
+Benin,2038,1947.18,38.53,Underdeveloped
+Benin,2039,1986.42,38.99,Underdeveloped
+Benin,2040,2025.65,39.46,Underdeveloped
+Bhutan,2025,3963.54,65.41,Developing
+Bhutan,2026,4055.88,67.37,Developing
+Bhutan,2027,4148.22,69.32,Developing
+Bhutan,2028,4240.56,71.27,Highly Developed
+Bhutan,2029,4332.9,73.22,Highly Developed
+Bhutan,2030,4425.24,75.17,Highly Developed
+Bhutan,2031,4517.58,77.12,Highly Developed
+Bhutan,2032,4609.92,79.08,Highly Developed
+Bhutan,2033,4702.26,81.03,Highly Developed
+Bhutan,2034,4794.6,82.98,Highly Developed
+Bhutan,2035,4886.94,84.93,Highly Developed
+Bhutan,2036,4979.28,86.88,Highly Developed
+Bhutan,2037,5071.62,88.83,Highly Developed
+Bhutan,2038,5163.96,90.78,Highly Developed
+Bhutan,2039,5256.3,92.74,Highly Developed
+Bhutan,2040,5348.65,94.69,Highly Developed
+Bolivia,2025,4632.42,55.27,Developing
+Bolivia,2026,4767.54,56.64,Developing
+Bolivia,2027,4902.66,58.02,Developing
+Bolivia,2028,5037.77,59.39,Developing
+Bolivia,2029,5172.89,60.76,Developing
+Bolivia,2030,5308.01,62.13,Developing
+Bolivia,2031,5443.13,63.5,Developing
+Bolivia,2032,5578.25,64.87,Developing
+Bolivia,2033,5713.37,66.24,Developing
+Bolivia,2034,5848.49,67.62,Developing
+Bolivia,2035,5983.6,68.99,Developing
+Bolivia,2036,6118.72,70.36,Highly Developed
+Bolivia,2037,6253.84,71.73,Highly Developed
+Bolivia,2038,6388.96,73.1,Highly Developed
+Bolivia,2039,6524.08,74.47,Highly Developed
+Bolivia,2040,6659.2,75.84,Highly Developed
+Bosnia and Herzegovina,2025,9161.25,64.3,Developing
+Bosnia and Herzegovina,2026,9606.07,65.72,Developing
+Bosnia and Herzegovina,2027,10050.9,67.14,Developing
+Bosnia and Herzegovina,2028,10495.72,68.56,Developing
+Bosnia and Herzegovina,2029,10940.55,69.99,Developing
+Bosnia and Herzegovina,2030,11385.38,71.41,Highly Developed
+Bosnia and Herzegovina,2031,11830.2,72.83,Highly Developed
+Bosnia and Herzegovina,2032,12275.03,74.25,Highly Developed
+Bosnia and Herzegovina,2033,12719.85,75.68,Highly Developed
+Bosnia and Herzegovina,2034,13164.68,77.1,Highly Developed
+Bosnia and Herzegovina,2035,13609.51,78.52,Highly Developed
+Bosnia and Herzegovina,2036,14054.33,79.94,Highly Developed
+Bosnia and Herzegovina,2037,14499.16,81.37,Highly Developed
+Bosnia and Herzegovina,2038,14943.99,82.79,Highly Developed
+Bosnia and Herzegovina,2039,15388.81,84.21,Highly Developed
+Bosnia and Herzegovina,2040,15833.64,85.63,Highly Developed
+Botswana,2025,8043.66,50.02,Developing
+Botswana,2026,8177.0,50.94,Developing
+Botswana,2027,8310.34,51.87,Developing
+Botswana,2028,8443.69,52.79,Developing
+Botswana,2029,8577.03,53.71,Developing
+Botswana,2030,8710.37,54.63,Developing
+Botswana,2031,8843.71,55.56,Developing
+Botswana,2032,8977.06,56.48,Developing
+Botswana,2033,9110.4,57.4,Developing
+Botswana,2034,9243.74,58.32,Developing
+Botswana,2035,9377.08,59.25,Developing
+Botswana,2036,9510.43,60.17,Developing
+Botswana,2037,9643.77,61.09,Developing
+Botswana,2038,9777.11,62.01,Developing
+Botswana,2039,9910.45,62.93,Developing
+Botswana,2040,10043.8,63.86,Developing
+Brazil,2025,8906.94,64.2,Developing
+Brazil,2026,8823.63,65.28,Developing
+Brazil,2027,8740.32,66.37,Developing
+Brazil,2028,8657.01,67.45,Developing
+Brazil,2029,8573.71,68.53,Developing
+Brazil,2030,8490.4,69.61,Developing
+Brazil,2031,8407.09,70.69,Highly Developed
+Brazil,2032,8323.78,71.78,Highly Developed
+Brazil,2033,8240.47,72.86,Highly Developed
+Brazil,2034,8157.16,73.94,Highly Developed
+Brazil,2035,8073.86,75.02,Highly Developed
+Brazil,2036,7990.55,76.11,Highly Developed
+Brazil,2037,7907.24,77.19,Highly Developed
+Brazil,2038,7823.93,78.27,Highly Developed
+Brazil,2039,7740.62,79.35,Highly Developed
+Brazil,2040,7657.31,80.43,Highly Developed
+Bulgaria,2025,17200.49,63.62,Developing
+Bulgaria,2026,18200.04,64.71,Developing
+Bulgaria,2027,19199.58,65.8,Developing
+Bulgaria,2028,20199.13,66.89,Developing
+Bulgaria,2029,21198.68,67.99,Developing
+Bulgaria,2030,22198.22,69.08,Developing
+Bulgaria,2031,23197.77,70.17,Highly Developed
+Bulgaria,2032,24197.32,71.26,Highly Developed
+Bulgaria,2033,25196.86,72.36,Highly Developed
+Bulgaria,2034,26196.41,73.45,Highly Developed
+Bulgaria,2035,27195.96,74.54,Highly Developed
+Bulgaria,2036,28195.5,75.64,Highly Developed
+Bulgaria,2037,29195.05,76.73,Highly Developed
+Bulgaria,2038,30194.6,77.82,Highly Developed
+Bulgaria,2039,31194.14,78.91,Highly Developed
+Bulgaria,2040,32193.69,80.01,Highly Developed
+Burkina Faso,2025,954.18,23.93,Underdeveloped
+Burkina Faso,2026,981.19,24.3,Underdeveloped
+Burkina Faso,2027,1008.19,24.67,Underdeveloped
+Burkina Faso,2028,1035.2,25.04,Underdeveloped
+Burkina Faso,2029,1062.2,25.41,Underdeveloped
+Burkina Faso,2030,1089.21,25.78,Underdeveloped
+Burkina Faso,2031,1116.21,26.15,Underdeveloped
+Burkina Faso,2032,1143.22,26.52,Underdeveloped
+Burkina Faso,2033,1170.22,26.89,Underdeveloped
+Burkina Faso,2034,1197.23,27.26,Underdeveloped
+Burkina Faso,2035,1224.23,27.63,Underdeveloped
+Burkina Faso,2036,1251.24,28.0,Underdeveloped
+Burkina Faso,2037,1278.24,28.37,Underdeveloped
+Burkina Faso,2038,1305.24,28.74,Underdeveloped
+Burkina Faso,2039,1332.25,29.11,Underdeveloped
+Burkina Faso,2040,1359.25,29.48,Underdeveloped
+Burundi,2025,255.48,36.04,Underdeveloped
+Burundi,2026,256.27,37.31,Underdeveloped
+Burundi,2027,257.07,38.58,Underdeveloped
+Burundi,2028,257.86,39.85,Underdeveloped
+Burundi,2029,258.66,41.12,Developing
+Burundi,2030,259.45,42.39,Developing
+Burundi,2031,260.25,43.66,Developing
+Burundi,2032,261.04,44.92,Developing
+Burundi,2033,261.84,46.19,Developing
+Burundi,2034,262.64,47.46,Developing
+Burundi,2035,263.43,48.73,Developing
+Burundi,2036,264.23,50.0,Developing
+Burundi,2037,265.02,51.27,Developing
+Burundi,2038,265.82,52.54,Developing
+Burundi,2039,266.61,53.81,Developing
+Burundi,2040,267.41,55.08,Developing
+Cabo Verde,2025,4841.68,60.1,Developing
+Cabo Verde,2026,4960.75,61.35,Developing
+Cabo Verde,2027,5079.82,62.61,Developing
+Cabo Verde,2028,5198.89,63.87,Developing
+Cabo Verde,2029,5317.96,65.12,Developing
+Cabo Verde,2030,5437.03,66.38,Developing
+Cabo Verde,2031,5556.1,67.64,Developing
+Cabo Verde,2032,5675.17,68.89,Developing
+Cabo Verde,2033,5794.24,70.15,Highly Developed
+Cabo Verde,2034,5913.31,71.41,Highly Developed
+Cabo Verde,2035,6032.38,72.66,Highly Developed
+Cabo Verde,2036,6151.45,73.92,Highly Developed
+Cabo Verde,2037,6270.52,75.18,Highly Developed
+Cabo Verde,2038,6389.59,76.43,Highly Developed
+Cabo Verde,2039,6508.66,77.69,Highly Developed
+Cabo Verde,2040,6627.73,78.94,Highly Developed
+Cambodia,2025,2698.87,59.82,Developing
+Cambodia,2026,2809.67,61.96,Developing
+Cambodia,2027,2920.47,64.1,Developing
+Cambodia,2028,3031.27,66.24,Developing
+Cambodia,2029,3142.07,68.38,Developing
+Cambodia,2030,3252.87,70.53,Highly Developed
+Cambodia,2031,3363.67,72.67,Highly Developed
+Cambodia,2032,3474.47,74.81,Highly Developed
+Cambodia,2033,3585.27,76.95,Highly Developed
+Cambodia,2034,3696.07,79.09,Highly Developed
+Cambodia,2035,3806.87,81.23,Highly Developed
+Cambodia,2036,3917.67,83.37,Highly Developed
+Cambodia,2037,4028.47,85.52,Highly Developed
+Cambodia,2038,4139.26,87.66,Highly Developed
+Cambodia,2039,4250.06,89.8,Highly Developed
+Cambodia,2040,4360.86,91.94,Highly Developed
+Cameroon,2025,1754.4,45.9,Developing
+Cameroon,2026,1780.87,47.03,Developing
+Cameroon,2027,1807.34,48.16,Developing
+Cameroon,2028,1833.81,49.29,Developing
+Cameroon,2029,1860.28,50.42,Developing
+Cameroon,2030,1886.75,51.55,Developing
+Cameroon,2031,1913.21,52.68,Developing
+Cameroon,2032,1939.68,53.81,Developing
+Cameroon,2033,1966.15,54.94,Developing
+Cameroon,2034,1992.62,56.07,Developing
+Cameroon,2035,2019.09,57.2,Developing
+Cameroon,2036,2045.56,58.33,Developing
+Cameroon,2037,2072.03,59.47,Developing
+Cameroon,2038,2098.5,60.6,Developing
+Cameroon,2039,2124.97,61.73,Developing
+Cameroon,2040,2151.43,62.86,Developing
+Canada,2025,54943.51,72.85,Highly Developed
+Canada,2026,55977.53,73.12,Highly Developed
+Canada,2027,57011.56,73.4,Highly Developed
+Canada,2028,58045.59,73.67,Highly Developed
+Canada,2029,59079.61,73.95,Highly Developed
+Canada,2030,60113.64,74.22,Highly Developed
+Canada,2031,61147.67,74.49,Highly Developed
+Canada,2032,62181.7,74.77,Highly Developed
+Canada,2033,63215.72,75.04,Highly Developed
+Canada,2034,64249.75,75.31,Highly Developed
+Canada,2035,65283.78,75.59,Highly Developed
+Canada,2036,66317.81,75.86,Highly Developed
+Canada,2037,67351.83,76.13,Highly Developed
+Canada,2038,68385.86,76.41,Highly Developed
+Canada,2039,69419.89,76.68,Highly Developed
+Canada,2040,70453.92,76.96,Highly Developed
+Central African Republic,2025,525.98,30.0,Underdeveloped
+Central African Republic,2026,538.87,30.7,Underdeveloped
+Central African Republic,2027,551.76,31.41,Underdeveloped
+Central African Republic,2028,564.65,32.11,Underdeveloped
+Central African Republic,2029,577.55,32.81,Underdeveloped
+Central African Republic,2030,590.44,33.51,Underdeveloped
+Central African Republic,2031,603.33,34.21,Underdeveloped
+Central African Republic,2032,616.23,34.91,Underdeveloped
+Central African Republic,2033,629.12,35.61,Underdeveloped
+Central African Republic,2034,642.01,36.31,Underdeveloped
+Central African Republic,2035,654.91,37.01,Underdeveloped
+Central African Republic,2036,667.8,37.71,Underdeveloped
+Central African Republic,2037,680.69,38.41,Underdeveloped
+Central African Republic,2038,693.59,39.11,Underdeveloped
+Central African Republic,2039,706.48,39.81,Underdeveloped
+Central African Republic,2040,719.37,40.51,Developing
+Chad,2025,882.84,31.07,Underdeveloped
+Chad,2026,870.57,32.19,Underdeveloped
+Chad,2027,858.29,33.3,Underdeveloped
+Chad,2028,846.02,34.42,Underdeveloped
+Chad,2029,833.75,35.53,Underdeveloped
+Chad,2030,821.47,36.65,Underdeveloped
+Chad,2031,809.2,37.76,Underdeveloped
+Chad,2032,796.93,38.88,Underdeveloped
+Chad,2033,784.65,39.99,Underdeveloped
+Chad,2034,772.38,41.11,Developing
+Chad,2035,760.11,42.22,Developing
+Chad,2036,747.83,43.34,Developing
+Chad,2037,735.56,44.45,Developing
+Chad,2038,723.29,45.57,Developing
+Chad,2039,711.01,46.68,Developing
+Chad,2040,698.74,47.8,Developing
+Chile,2025,16694.43,69.58,Developing
+Chile,2026,16974.52,70.25,Highly Developed
+Chile,2027,17254.61,70.93,Highly Developed
+Chile,2028,17534.7,71.61,Highly Developed
+Chile,2029,17814.8,72.28,Highly Developed
+Chile,2030,18094.89,72.96,Highly Developed
+Chile,2031,18374.98,73.64,Highly Developed
+Chile,2032,18655.07,74.31,Highly Developed
+Chile,2033,18935.16,74.99,Highly Developed
+Chile,2034,19215.25,75.67,Highly Developed
+Chile,2035,19495.34,76.34,Highly Developed
+Chile,2036,19775.43,77.02,Highly Developed
+Chile,2037,20055.52,77.7,Highly Developed
+Chile,2038,20335.61,78.37,Highly Developed
+Chile,2039,20615.7,79.05,Highly Developed
+Chile,2040,20895.8,79.72,Highly Developed
+China,2025,14353.67,67.21,Developing
+China,2026,14982.92,68.32,Developing
+China,2027,15612.18,69.43,Developing
+China,2028,16241.44,70.55,Highly Developed
+China,2029,16870.7,71.66,Highly Developed
+China,2030,17499.95,72.77,Highly Developed
+China,2031,18129.21,73.88,Highly Developed
+China,2032,18758.47,75.0,Highly Developed
+China,2033,19387.73,76.11,Highly Developed
+China,2034,20016.98,77.22,Highly Developed
+China,2035,20646.24,78.34,Highly Developed
+China,2036,21275.5,79.45,Highly Developed
+China,2037,21904.76,80.56,Highly Developed
+China,2038,22534.01,81.68,Highly Developed
+China,2039,23163.27,82.79,Highly Developed
+China,2040,23792.53,83.9,Highly Developed
+Colombia,2025,6766.49,58.91,Developing
+Colombia,2026,6783.22,59.75,Developing
+Colombia,2027,6799.95,60.6,Developing
+Colombia,2028,6816.67,61.44,Developing
+Colombia,2029,6833.4,62.29,Developing
+Colombia,2030,6850.13,63.13,Developing
+Colombia,2031,6866.86,63.97,Developing
+Colombia,2032,6883.58,64.82,Developing
+Colombia,2033,6900.31,65.66,Developing
+Colombia,2034,6917.04,66.51,Developing
+Colombia,2035,6933.76,67.35,Developing
+Colombia,2036,6950.49,68.19,Developing
+Colombia,2037,6967.22,69.04,Developing
+Colombia,2038,6983.95,69.88,Developing
+Colombia,2039,7000.67,70.73,Highly Developed
+Colombia,2040,7017.4,71.57,Highly Developed
+Comoros,2025,1596.61,44.93,Developing
+Comoros,2026,1612.18,46.06,Developing
+Comoros,2027,1627.75,47.19,Developing
+Comoros,2028,1643.32,48.32,Developing
+Comoros,2029,1658.89,49.45,Developing
+Comoros,2030,1674.46,50.58,Developing
+Comoros,2031,1690.03,51.71,Developing
+Comoros,2032,1705.6,52.84,Developing
+Comoros,2033,1721.18,53.97,Developing
+Comoros,2034,1736.75,55.1,Developing
+Comoros,2035,1752.32,56.23,Developing
+Comoros,2036,1767.89,57.36,Developing
+Comoros,2037,1783.46,58.5,Developing
+Comoros,2038,1799.03,59.63,Developing
+Comoros,2039,1814.6,60.76,Developing
+Comoros,2040,1830.17,61.89,Developing
+Costa Rica,2025,16885.39,66.14,Developing
+Costa Rica,2026,17473.92,67.1,Developing
+Costa Rica,2027,18062.45,68.06,Developing
+Costa Rica,2028,18650.97,69.02,Developing
+Costa Rica,2029,19239.5,69.98,Developing
+Costa Rica,2030,19828.03,70.94,Highly Developed
+Costa Rica,2031,20416.56,71.9,Highly Developed
+Costa Rica,2032,21005.08,72.86,Highly Developed
+Costa Rica,2033,21593.61,73.82,Highly Developed
+Costa Rica,2034,22182.14,74.78,Highly Developed
+Costa Rica,2035,22770.67,75.74,Highly Developed
+Costa Rica,2036,23359.19,76.7,Highly Developed
+Costa Rica,2037,23947.72,77.66,Highly Developed
+Costa Rica,2038,24536.25,78.62,Highly Developed
+Costa Rica,2039,25124.78,79.58,Highly Developed
+Costa Rica,2040,25713.3,80.54,Highly Developed
+Croatia,2025,22663.6,66.17,Developing
+Croatia,2026,23690.67,67.05,Developing
+Croatia,2027,24717.74,67.93,Developing
+Croatia,2028,25744.81,68.81,Developing
+Croatia,2029,26771.88,69.7,Developing
+Croatia,2030,27798.95,70.58,Highly Developed
+Croatia,2031,28826.01,71.46,Highly Developed
+Croatia,2032,29853.08,72.34,Highly Developed
+Croatia,2033,30880.15,73.22,Highly Developed
+Croatia,2034,31907.22,74.1,Highly Developed
+Croatia,2035,32934.29,74.98,Highly Developed
+Croatia,2036,33961.36,75.86,Highly Developed
+Croatia,2037,34988.43,76.74,Highly Developed
+Croatia,2038,36015.5,77.62,Highly Developed
+Croatia,2039,37042.57,78.5,Highly Developed
+Croatia,2040,38069.64,79.38,Highly Developed
+Cyprus,2025,38148.02,72.27,Highly Developed
+Cyprus,2026,39527.93,73.19,Highly Developed
+Cyprus,2027,40907.85,74.11,Highly Developed
+Cyprus,2028,42287.76,75.03,Highly Developed
+Cyprus,2029,43667.68,75.94,Highly Developed
+Cyprus,2030,45047.59,76.86,Highly Developed
+Cyprus,2031,46427.51,77.78,Highly Developed
+Cyprus,2032,47807.42,78.7,Highly Developed
+Cyprus,2033,49187.34,79.62,Highly Developed
+Cyprus,2034,50567.25,80.54,Highly Developed
+Cyprus,2035,51947.17,81.46,Highly Developed
+Cyprus,2036,53327.08,82.38,Highly Developed
+Cyprus,2037,54707.0,83.3,Highly Developed
+Cyprus,2038,56086.91,84.22,Highly Developed
+Cyprus,2039,57466.83,85.14,Highly Developed
+Cyprus,2040,58846.74,86.06,Highly Developed
+Denmark,2025,71347.64,76.89,Highly Developed
+Denmark,2026,72851.89,77.26,Highly Developed
+Denmark,2027,74356.15,77.64,Highly Developed
+Denmark,2028,75860.4,78.01,Highly Developed
+Denmark,2029,77364.66,78.39,Highly Developed
+Denmark,2030,78868.91,78.77,Highly Developed
+Denmark,2031,80373.16,79.14,Highly Developed
+Denmark,2032,81877.42,79.52,Highly Developed
+Denmark,2033,83381.67,79.9,Highly Developed
+Denmark,2034,84885.92,80.27,Highly Developed
+Denmark,2035,86390.18,80.65,Highly Developed
+Denmark,2036,87894.43,81.02,Highly Developed
+Denmark,2037,89398.68,81.4,Highly Developed
+Denmark,2038,90902.94,81.78,Highly Developed
+Denmark,2039,92407.19,82.15,Highly Developed
+Denmark,2040,93911.44,82.53,Highly Developed
+Djibouti,2025,3575.06,51.86,Developing
+Djibouti,2026,3697.98,53.43,Developing
+Djibouti,2027,3820.89,54.99,Developing
+Djibouti,2028,3943.8,56.56,Developing
+Djibouti,2029,4066.71,58.13,Developing
+Djibouti,2030,4189.63,59.69,Developing
+Djibouti,2031,4312.54,61.26,Developing
+Djibouti,2032,4435.45,62.83,Developing
+Djibouti,2033,4558.37,64.39,Developing
+Djibouti,2034,4681.28,65.96,Developing
+Djibouti,2035,4804.19,67.53,Developing
+Djibouti,2036,4927.1,69.09,Developing
+Djibouti,2037,5050.02,70.66,Highly Developed
+Djibouti,2038,5172.93,72.23,Highly Developed
+Djibouti,2039,5295.84,73.79,Highly Developed
+Djibouti,2040,5418.76,75.36,Highly Developed
+Dominica,2025,9910.46,61.02,Developing
+Dominica,2026,10077.45,61.75,Developing
+Dominica,2027,10244.43,62.48,Developing
+Dominica,2028,10411.42,63.21,Developing
+Dominica,2029,10578.4,63.94,Developing
+Dominica,2030,10745.39,64.67,Developing
+Dominica,2031,10912.37,65.4,Developing
+Dominica,2032,11079.36,66.13,Developing
+Dominica,2033,11246.34,66.86,Developing
+Dominica,2034,11413.33,67.59,Developing
+Dominica,2035,11580.31,68.32,Developing
+Dominica,2036,11747.3,69.05,Developing
+Dominica,2037,11914.28,69.78,Developing
+Dominica,2038,12081.27,70.51,Highly Developed
+Dominica,2039,12248.25,71.24,Highly Developed
+Dominica,2040,12415.24,71.97,Highly Developed
+Dominican Republic,2025,10884.09,65.28,Developing
+Dominican Republic,2026,11316.15,66.65,Developing
+Dominican Republic,2027,11748.21,68.02,Developing
+Dominican Republic,2028,12180.26,69.39,Developing
+Dominican Republic,2029,12612.32,70.77,Highly Developed
+Dominican Republic,2030,13044.38,72.14,Highly Developed
+Dominican Republic,2031,13476.44,73.51,Highly Developed
+Dominican Republic,2032,13908.49,74.88,Highly Developed
+Dominican Republic,2033,14340.55,76.25,Highly Developed
+Dominican Republic,2034,14772.61,77.62,Highly Developed
+Dominican Republic,2035,15204.67,78.99,Highly Developed
+Dominican Republic,2036,15636.72,80.37,Highly Developed
+Dominican Republic,2037,16068.78,81.74,Highly Developed
+Dominican Republic,2038,16500.84,83.11,Highly Developed
+Dominican Republic,2039,16932.9,84.48,Highly Developed
+Dominican Republic,2040,17364.95,85.85,Highly Developed
+Ecuador,2025,6572.32,60.28,Developing
+Ecuador,2026,6626.87,61.1,Developing
+Ecuador,2027,6681.43,61.93,Developing
+Ecuador,2028,6735.98,62.75,Developing
+Ecuador,2029,6790.53,63.57,Developing
+Ecuador,2030,6845.09,64.4,Developing
+Ecuador,2031,6899.64,65.22,Developing
+Ecuador,2032,6954.19,66.04,Developing
+Ecuador,2033,7008.75,66.87,Developing
+Ecuador,2034,7063.3,67.69,Developing
+Ecuador,2035,7117.85,68.51,Developing
+Ecuador,2036,7172.4,69.33,Developing
+Ecuador,2037,7226.96,70.16,Highly Developed
+Ecuador,2038,7281.51,70.98,Highly Developed
+Ecuador,2039,7336.06,71.8,Highly Developed
+Ecuador,2040,7390.62,72.63,Highly Developed
+El Salvador,2025,5528.11,55.63,Developing
+El Salvador,2026,5713.99,57.07,Developing
+El Salvador,2027,5899.88,58.51,Developing
+El Salvador,2028,6085.76,59.95,Developing
+El Salvador,2029,6271.64,61.39,Developing
+El Salvador,2030,6457.52,62.83,Developing
+El Salvador,2031,6643.4,64.27,Developing
+El Salvador,2032,6829.29,65.71,Developing
+El Salvador,2033,7015.17,67.15,Developing
+El Salvador,2034,7201.05,68.59,Developing
+El Salvador,2035,7386.93,70.03,Highly Developed
+El Salvador,2036,7572.82,71.47,Highly Developed
+El Salvador,2037,7758.7,72.91,Highly Developed
+El Salvador,2038,7944.58,74.35,Highly Developed
+El Salvador,2039,8130.46,75.79,Highly Developed
+El Salvador,2040,8316.34,77.23,Highly Developed
+Equatorial Guinea,2025,4924.18,52.42,Developing
+Equatorial Guinea,2026,4403.84,53.99,Developing
+Equatorial Guinea,2027,3883.49,55.56,Developing
+Equatorial Guinea,2028,3363.15,57.13,Developing
+Equatorial Guinea,2029,2842.8,58.7,Developing
+Equatorial Guinea,2030,2322.46,60.27,Developing
+Equatorial Guinea,2031,1802.12,61.84,Developing
+Equatorial Guinea,2032,1281.77,63.41,Developing
+Equatorial Guinea,2033,761.43,64.98,Developing
+Equatorial Guinea,2034,241.08,66.55,Developing
+Equatorial Guinea,2035,0.0,68.12,Developing
+Equatorial Guinea,2036,0.0,69.69,Developing
+Equatorial Guinea,2037,0.0,71.25,Highly Developed
+Equatorial Guinea,2038,0.0,72.82,Highly Developed
+Equatorial Guinea,2039,0.0,74.39,Highly Developed
+Equatorial Guinea,2040,0.0,75.96,Highly Developed
+Estonia,2025,32376.51,68.59,Developing
+Estonia,2026,33721.39,68.98,Developing
+Estonia,2027,35066.28,69.37,Developing
+Estonia,2028,36411.16,69.76,Developing
+Estonia,2029,37756.05,70.15,Highly Developed
+Estonia,2030,39100.93,70.55,Highly Developed
+Estonia,2031,40445.82,70.94,Highly Developed
+Estonia,2032,41790.7,71.33,Highly Developed
+Estonia,2033,43135.59,71.72,Highly Developed
+Estonia,2034,44480.48,72.11,Highly Developed
+Estonia,2035,45825.36,72.5,Highly Developed
+Estonia,2036,47170.25,72.89,Highly Developed
+Estonia,2037,48515.13,73.28,Highly Developed
+Estonia,2038,49860.02,73.68,Highly Developed
+Estonia,2039,51204.9,74.07,Highly Developed
+Estonia,2040,52549.79,74.46,Highly Developed
+Eswatini,2025,3948.47,46.47,Developing
+Eswatini,2026,3982.64,48.05,Developing
+Eswatini,2027,4016.81,49.63,Developing
+Eswatini,2028,4050.98,51.21,Developing
+Eswatini,2029,4085.15,52.79,Developing
+Eswatini,2030,4119.33,54.37,Developing
+Eswatini,2031,4153.5,55.95,Developing
+Eswatini,2032,4187.67,57.53,Developing
+Eswatini,2033,4221.84,59.11,Developing
+Eswatini,2034,4256.01,60.69,Developing
+Eswatini,2035,4290.18,62.27,Developing
+Eswatini,2036,4324.36,63.85,Developing
+Eswatini,2037,4358.53,65.43,Developing
+Eswatini,2038,4392.7,67.01,Developing
+Eswatini,2039,4426.87,68.59,Developing
+Eswatini,2040,4461.04,70.17,Highly Developed
+Fiji,2025,5771.09,57.97,Developing
+Fiji,2026,5817.3,59.12,Developing
+Fiji,2027,5863.51,60.27,Developing
+Fiji,2028,5909.71,61.42,Developing
+Fiji,2029,5955.92,62.57,Developing
+Fiji,2030,6002.12,63.72,Developing
+Fiji,2031,6048.33,64.87,Developing
+Fiji,2032,6094.53,66.02,Developing
+Fiji,2033,6140.74,67.17,Developing
+Fiji,2034,6186.94,68.32,Developing
+Fiji,2035,6233.15,69.47,Developing
+Fiji,2036,6279.35,70.62,Highly Developed
+Fiji,2037,6325.56,71.76,Highly Developed
+Fiji,2038,6371.77,72.91,Highly Developed
+Fiji,2039,6417.97,74.06,Highly Developed
+Fiji,2040,6464.18,75.21,Highly Developed
+Finland,2025,53902.1,73.17,Highly Developed
+Finland,2026,54726.15,73.42,Highly Developed
+Finland,2027,55550.21,73.68,Highly Developed
+Finland,2028,56374.27,73.93,Highly Developed
+Finland,2029,57198.33,74.18,Highly Developed
+Finland,2030,58022.38,74.44,Highly Developed
+Finland,2031,58846.44,74.69,Highly Developed
+Finland,2032,59670.5,74.94,Highly Developed
+Finland,2033,60494.56,75.2,Highly Developed
+Finland,2034,61318.61,75.45,Highly Developed
+Finland,2035,62142.67,75.7,Highly Developed
+Finland,2036,62966.73,75.95,Highly Developed
+Finland,2037,63790.79,76.21,Highly Developed
+Finland,2038,64614.84,76.46,Highly Developed
+Finland,2039,65438.9,76.71,Highly Developed
+Finland,2040,66262.96,76.97,Highly Developed
+France,2025,44724.3,70.22,Highly Developed
+France,2026,45328.72,70.62,Highly Developed
+France,2027,45933.15,71.02,Highly Developed
+France,2028,46537.57,71.42,Highly Developed
+France,2029,47142.0,71.82,Highly Developed
+France,2030,47746.42,72.22,Highly Developed
+France,2031,48350.85,72.62,Highly Developed
+France,2032,48955.28,73.02,Highly Developed
+France,2033,49559.7,73.42,Highly Developed
+France,2034,50164.13,73.82,Highly Developed
+France,2035,50768.55,74.22,Highly Developed
+France,2036,51372.98,74.62,Highly Developed
+France,2037,51977.41,75.01,Highly Developed
+France,2038,52581.83,75.41,Highly Developed
+France,2039,53186.26,75.81,Highly Developed
+France,2040,53790.68,76.21,Highly Developed
+Gabon,2025,7914.56,53.24,Developing
+Gabon,2026,7958.77,54.26,Developing
+Gabon,2027,8002.98,55.28,Developing
+Gabon,2028,8047.2,56.29,Developing
+Gabon,2029,8091.41,57.31,Developing
+Gabon,2030,8135.62,58.33,Developing
+Gabon,2031,8179.84,59.35,Developing
+Gabon,2032,8224.05,60.36,Developing
+Gabon,2033,8268.26,61.38,Developing
+Gabon,2034,8312.48,62.4,Developing
+Gabon,2035,8356.69,63.41,Developing
+Gabon,2036,8400.91,64.43,Developing
+Gabon,2037,8445.12,65.45,Developing
+Gabon,2038,8489.33,66.47,Developing
+Gabon,2039,8533.55,67.48,Developing
+Gabon,2040,8577.76,68.5,Developing
+Georgia,2025,8101.98,67.17,Developing
+Georgia,2026,8533.16,68.89,Developing
+Georgia,2027,8964.34,70.61,Highly Developed
+Georgia,2028,9395.52,72.34,Highly Developed
+Georgia,2029,9826.7,74.06,Highly Developed
+Georgia,2030,10257.88,75.78,Highly Developed
+Georgia,2031,10689.06,77.5,Highly Developed
+Georgia,2032,11120.24,79.22,Highly Developed
+Georgia,2033,11551.42,80.94,Highly Developed
+Georgia,2034,11982.6,82.66,Highly Developed
+Georgia,2035,12413.78,84.38,Highly Developed
+Georgia,2036,12844.96,86.11,Highly Developed
+Georgia,2037,13276.14,87.83,Highly Developed
+Georgia,2038,13707.33,89.55,Highly Developed
+Georgia,2039,14138.51,91.27,Highly Developed
+Georgia,2040,14569.69,92.99,Highly Developed
+Germany,2025,55473.29,73.18,Highly Developed
+Germany,2026,56581.03,73.6,Highly Developed
+Germany,2027,57688.76,74.02,Highly Developed
+Germany,2028,58796.49,74.44,Highly Developed
+Germany,2029,59904.23,74.86,Highly Developed
+Germany,2030,61011.96,75.29,Highly Developed
+Germany,2031,62119.7,75.71,Highly Developed
+Germany,2032,63227.43,76.13,Highly Developed
+Germany,2033,64335.17,76.55,Highly Developed
+Germany,2034,65442.9,76.97,Highly Developed
+Germany,2035,66550.63,77.39,Highly Developed
+Germany,2036,67658.37,77.82,Highly Developed
+Germany,2037,68766.1,78.24,Highly Developed
+Germany,2038,69873.84,78.66,Highly Developed
+Germany,2039,70981.57,79.08,Highly Developed
+Germany,2040,72089.31,79.5,Highly Developed
+Ghana,2025,2511.35,58.02,Developing
+Ghana,2026,2571.96,60.53,Developing
+Ghana,2027,2632.57,63.03,Developing
+Ghana,2028,2693.18,65.54,Developing
+Ghana,2029,2753.79,68.05,Developing
+Ghana,2030,2814.4,70.56,Highly Developed
+Ghana,2031,2875.0,73.07,Highly Developed
+Ghana,2032,2935.61,75.57,Highly Developed
+Ghana,2033,2996.22,78.08,Highly Developed
+Ghana,2034,3056.83,80.59,Highly Developed
+Ghana,2035,3117.44,83.1,Highly Developed
+Ghana,2036,3178.05,85.61,Highly Developed
+Ghana,2037,3238.66,88.11,Highly Developed
+Ghana,2038,3299.27,90.62,Highly Developed
+Ghana,2039,3359.88,93.13,Highly Developed
+Ghana,2040,3420.49,95.64,Highly Developed
+Greece,2025,22865.0,67.36,Developing
+Greece,2026,23302.91,68.43,Developing
+Greece,2027,23740.82,69.5,Developing
+Greece,2028,24178.72,70.56,Highly Developed
+Greece,2029,24616.63,71.63,Highly Developed
+Greece,2030,25054.53,72.69,Highly Developed
+Greece,2031,25492.44,73.76,Highly Developed
+Greece,2032,25930.34,74.82,Highly Developed
+Greece,2033,26368.25,75.89,Highly Developed
+Greece,2034,26806.16,76.96,Highly Developed
+Greece,2035,27244.06,78.02,Highly Developed
+Greece,2036,27681.97,79.09,Highly Developed
+Greece,2037,28119.87,80.15,Highly Developed
+Greece,2038,28557.78,81.22,Highly Developed
+Greece,2039,28995.68,82.28,Highly Developed
+Greece,2040,29433.59,83.35,Highly Developed
+Guinea,2025,1686.5,45.01,Developing
+Guinea,2026,1785.94,47.26,Developing
+Guinea,2027,1885.38,49.51,Developing
+Guinea,2028,1984.82,51.75,Developing
+Guinea,2029,2084.26,54.0,Developing
+Guinea,2030,2183.7,56.25,Developing
+Guinea,2031,2283.14,58.49,Developing
+Guinea,2032,2382.59,60.74,Developing
+Guinea,2033,2482.03,62.99,Developing
+Guinea,2034,2581.47,65.23,Developing
+Guinea,2035,2680.91,67.48,Developing
+Guinea,2036,2780.35,69.73,Developing
+Guinea,2037,2879.79,71.97,Highly Developed
+Guinea,2038,2979.23,74.22,Highly Developed
+Guinea,2039,3078.67,76.47,Highly Developed
+Guinea,2040,3178.11,78.72,Highly Developed
+Guinea-Bissau,2025,1044.05,36.83,Underdeveloped
+Guinea-Bissau,2026,1081.2,37.46,Underdeveloped
+Guinea-Bissau,2027,1118.36,38.08,Underdeveloped
+Guinea-Bissau,2028,1155.51,38.71,Underdeveloped
+Guinea-Bissau,2029,1192.67,39.33,Underdeveloped
+Guinea-Bissau,2030,1229.82,39.96,Underdeveloped
+Guinea-Bissau,2031,1266.98,40.58,Developing
+Guinea-Bissau,2032,1304.13,41.2,Developing
+Guinea-Bissau,2033,1341.28,41.83,Developing
+Guinea-Bissau,2034,1378.44,42.45,Developing
+Guinea-Bissau,2035,1415.59,43.08,Developing
+Guinea-Bissau,2036,1452.75,43.7,Developing
+Guinea-Bissau,2037,1489.9,44.33,Developing
+Guinea-Bissau,2038,1527.06,44.95,Developing
+Guinea-Bissau,2039,1564.21,45.57,Developing
+Guinea-Bissau,2040,1601.36,46.2,Developing
+Guyana,2025,23186.83,61.16,Developing
+Guyana,2026,25228.34,63.15,Developing
+Guyana,2027,27269.84,65.13,Developing
+Guyana,2028,29311.35,67.11,Developing
+Guyana,2029,31352.85,69.1,Developing
+Guyana,2030,33394.36,71.08,Highly Developed
+Guyana,2031,35435.86,73.07,Highly Developed
+Guyana,2032,37477.37,75.05,Highly Developed
+Guyana,2033,39518.87,77.03,Highly Developed
+Guyana,2034,41560.37,79.02,Highly Developed
+Guyana,2035,43601.88,81.0,Highly Developed
+Guyana,2036,45643.38,82.99,Highly Developed
+Guyana,2037,47684.89,84.97,Highly Developed
+Guyana,2038,49726.39,86.96,Highly Developed
+Guyana,2039,51767.9,88.94,Highly Developed
+Guyana,2040,53809.4,90.92,Highly Developed
+Haiti,2025,1921.48,46.56,Developing
+Haiti,2026,1981.51,47.92,Developing
+Haiti,2027,2041.54,49.27,Developing
+Haiti,2028,2101.57,50.62,Developing
+Haiti,2029,2161.61,51.97,Developing
+Haiti,2030,2221.64,53.32,Developing
+Haiti,2031,2281.67,54.68,Developing
+Haiti,2032,2341.7,56.03,Developing
+Haiti,2033,2401.73,57.38,Developing
+Haiti,2034,2461.77,58.73,Developing
+Haiti,2035,2521.8,60.08,Developing
+Haiti,2036,2581.83,61.44,Developing
+Haiti,2037,2641.86,62.79,Developing
+Haiti,2038,2701.89,64.14,Developing
+Haiti,2039,2761.92,65.49,Developing
+Haiti,2040,2821.96,66.84,Developing
+Honduras,2025,3310.73,45.96,Developing
+Honduras,2026,3425.58,46.42,Developing
+Honduras,2027,3540.42,46.88,Developing
+Honduras,2028,3655.27,47.33,Developing
+Honduras,2029,3770.11,47.79,Developing
+Honduras,2030,3884.96,48.24,Developing
+Honduras,2031,3999.8,48.7,Developing
+Honduras,2032,4114.64,49.15,Developing
+Honduras,2033,4229.49,49.61,Developing
+Honduras,2034,4344.33,50.07,Developing
+Honduras,2035,4459.18,50.52,Developing
+Honduras,2036,4574.02,50.98,Developing
+Honduras,2037,4688.87,51.43,Developing
+Honduras,2038,4803.71,51.89,Developing
+Honduras,2039,4918.55,52.35,Developing
+Honduras,2040,5033.4,52.8,Developing
+Hungary,2025,22906.57,67.76,Developing
+Hungary,2026,23874.72,68.4,Developing
+Hungary,2027,24842.88,69.04,Developing
+Hungary,2028,25811.03,69.68,Developing
+Hungary,2029,26779.19,70.32,Highly Developed
+Hungary,2030,27747.35,70.96,Highly Developed
+Hungary,2031,28715.5,71.6,Highly Developed
+Hungary,2032,29683.66,72.24,Highly Developed
+Hungary,2033,30651.82,72.88,Highly Developed
+Hungary,2034,31619.97,73.52,Highly Developed
+Hungary,2035,32588.13,74.16,Highly Developed
+Hungary,2036,33556.28,74.8,Highly Developed
+Hungary,2037,34524.44,75.44,Highly Developed
+Hungary,2038,35492.6,76.08,Highly Developed
+Hungary,2039,36460.75,76.72,Highly Developed
+Hungary,2040,37428.91,77.37,Highly Developed
+Iceland,2025,85258.04,76.83,Highly Developed
+Iceland,2026,87884.54,76.82,Highly Developed
+Iceland,2027,90511.03,76.8,Highly Developed
+Iceland,2028,93137.53,76.79,Highly Developed
+Iceland,2029,95764.02,76.77,Highly Developed
+Iceland,2030,98390.52,76.76,Highly Developed
+Iceland,2031,101017.01,76.75,Highly Developed
+Iceland,2032,103643.51,76.73,Highly Developed
+Iceland,2033,106270.0,76.72,Highly Developed
+Iceland,2034,108896.5,76.7,Highly Developed
+Iceland,2035,111522.99,76.69,Highly Developed
+Iceland,2036,114149.49,76.68,Highly Developed
+Iceland,2037,116775.98,76.66,Highly Developed
+Iceland,2038,119402.48,76.65,Highly Developed
+Iceland,2039,122028.97,76.63,Highly Developed
+Iceland,2040,124655.47,76.62,Highly Developed
+India,2025,2698.11,47.73,Developing
+India,2026,2806.55,48.96,Developing
+India,2027,2914.99,50.19,Developing
+India,2028,3023.43,51.43,Developing
+India,2029,3131.87,52.66,Developing
+India,2030,3240.31,53.89,Developing
+India,2031,3348.75,55.12,Developing
+India,2032,3457.19,56.35,Developing
+India,2033,3565.63,57.58,Developing
+India,2034,3674.07,58.81,Developing
+India,2035,3782.5,60.04,Developing
+India,2036,3890.94,61.27,Developing
+India,2037,3999.38,62.5,Developing
+India,2038,4107.82,63.73,Developing
+India,2039,4216.26,64.96,Developing
+India,2040,4324.7,66.19,Developing
+Indonesia,2025,5064.9,61.75,Developing
+Indonesia,2026,5231.92,63.59,Developing
+Indonesia,2027,5398.93,65.44,Developing
+Indonesia,2028,5565.95,67.29,Developing
+Indonesia,2029,5732.96,69.14,Developing
+Indonesia,2030,5899.98,70.99,Highly Developed
+Indonesia,2031,6066.99,72.84,Highly Developed
+Indonesia,2032,6234.0,74.68,Highly Developed
+Indonesia,2033,6401.02,76.53,Highly Developed
+Indonesia,2034,6568.03,78.38,Highly Developed
+Indonesia,2035,6735.05,80.23,Highly Developed
+Indonesia,2036,6902.06,82.08,Highly Developed
+Indonesia,2037,7069.08,83.93,Highly Developed
+Indonesia,2038,7236.09,85.78,Highly Developed
+Indonesia,2039,7403.1,87.62,Highly Developed
+Indonesia,2040,7570.12,89.47,Highly Developed
+Iraq,2025,5928.52,62.12,Developing
+Iraq,2026,6025.32,64.86,Developing
+Iraq,2027,6122.11,67.6,Developing
+Iraq,2028,6218.91,70.35,Highly Developed
+Iraq,2029,6315.71,73.09,Highly Developed
+Iraq,2030,6412.5,75.84,Highly Developed
+Iraq,2031,6509.3,78.58,Highly Developed
+Iraq,2032,6606.1,81.33,Highly Developed
+Iraq,2033,6702.89,84.07,Highly Developed
+Iraq,2034,6799.69,86.81,Highly Developed
+Iraq,2035,6896.49,89.56,Highly Developed
+Iraq,2036,6993.28,92.3,Highly Developed
+Iraq,2037,7090.08,95.05,Highly Developed
+Iraq,2038,7186.88,97.79,Highly Developed
+Iraq,2039,7283.67,100.0,Highly Developed
+Iraq,2040,7380.47,100.0,Highly Developed
+Ireland,2025,120007.11,82.54,Highly Developed
+Ireland,2026,125832.7,83.86,Highly Developed
+Ireland,2027,131658.29,85.17,Highly Developed
+Ireland,2028,137483.88,86.49,Highly Developed
+Ireland,2029,143309.46,87.8,Highly Developed
+Ireland,2030,149135.05,89.12,Highly Developed
+Ireland,2031,154960.64,90.43,Highly Developed
+Ireland,2032,160786.23,91.75,Highly Developed
+Ireland,2033,166611.81,93.07,Highly Developed
+Ireland,2034,172437.4,94.38,Highly Developed
+Ireland,2035,178262.99,95.7,Highly Developed
+Ireland,2036,184088.58,97.01,Highly Developed
+Ireland,2037,189914.16,98.33,Highly Developed
+Ireland,2038,195739.75,99.65,Highly Developed
+Ireland,2039,201565.34,100.0,Highly Developed
+Ireland,2040,207390.93,100.0,Highly Developed
+Israel,2025,57194.64,73.79,Highly Developed
+Israel,2026,59182.29,74.51,Highly Developed
+Israel,2027,61169.94,75.23,Highly Developed
+Israel,2028,63157.59,75.95,Highly Developed
+Israel,2029,65145.24,76.68,Highly Developed
+Israel,2030,67132.89,77.4,Highly Developed
+Israel,2031,69120.53,78.12,Highly Developed
+Israel,2032,71108.18,78.84,Highly Developed
+Israel,2033,73095.83,79.57,Highly Developed
+Israel,2034,75083.48,80.29,Highly Developed
+Israel,2035,77071.13,81.01,Highly Developed
+Israel,2036,79058.78,81.74,Highly Developed
+Israel,2037,81046.43,82.46,Highly Developed
+Israel,2038,83034.08,83.18,Highly Developed
+Israel,2039,85021.73,83.9,Highly Developed
+Israel,2040,87009.37,84.63,Highly Developed
+Italy,2025,38952.38,71.01,Highly Developed
+Italy,2026,39628.06,72.2,Highly Developed
+Italy,2027,40303.74,73.39,Highly Developed
+Italy,2028,40979.42,74.58,Highly Developed
+Italy,2029,41655.11,75.78,Highly Developed
+Italy,2030,42330.79,76.97,Highly Developed
+Italy,2031,43006.47,78.16,Highly Developed
+Italy,2032,43682.15,79.35,Highly Developed
+Italy,2033,44357.83,80.55,Highly Developed
+Italy,2034,45033.52,81.74,Highly Developed
+Italy,2035,45709.2,82.93,Highly Developed
+Italy,2036,46384.88,84.12,Highly Developed
+Italy,2037,47060.56,85.31,Highly Developed
+Italy,2038,47736.24,86.51,Highly Developed
+Italy,2039,48411.92,87.7,Highly Developed
+Italy,2040,49087.61,88.89,Highly Developed
+Jamaica,2025,7427.43,66.85,Developing
+Jamaica,2026,7664.17,68.68,Developing
+Jamaica,2027,7900.9,70.52,Highly Developed
+Jamaica,2028,8137.64,72.35,Highly Developed
+Jamaica,2029,8374.37,74.19,Highly Developed
+Jamaica,2030,8611.11,76.02,Highly Developed
+Jamaica,2031,8847.85,77.85,Highly Developed
+Jamaica,2032,9084.58,79.69,Highly Developed
+Jamaica,2033,9321.32,81.52,Highly Developed
+Jamaica,2034,9558.06,83.36,Highly Developed
+Jamaica,2035,9794.79,85.19,Highly Developed
+Jamaica,2036,10031.53,87.03,Highly Developed
+Jamaica,2037,10268.26,88.86,Highly Developed
+Jamaica,2038,10505.0,90.69,Highly Developed
+Jamaica,2039,10741.74,92.53,Highly Developed
+Jamaica,2040,10978.47,94.36,Highly Developed
+Japan,2025,34889.33,69.36,Developing
+Japan,2026,34456.87,69.12,Developing
+Japan,2027,34024.42,68.89,Developing
+Japan,2028,33591.96,68.65,Developing
+Japan,2029,33159.5,68.42,Developing
+Japan,2030,32727.05,68.18,Developing
+Japan,2031,32294.59,67.95,Developing
+Japan,2032,31862.13,67.71,Developing
+Japan,2033,31429.67,67.48,Developing
+Japan,2034,30997.22,67.24,Developing
+Japan,2035,30564.76,67.01,Developing
+Japan,2036,30132.3,66.77,Developing
+Japan,2037,29699.84,66.54,Developing
+Japan,2038,29267.39,66.3,Developing
+Japan,2039,28834.93,66.07,Developing
+Japan,2040,28402.47,65.83,Developing
+Jordan,2025,4473.63,65.94,Developing
+Jordan,2026,4518.87,67.5,Developing
+Jordan,2027,4564.12,69.06,Developing
+Jordan,2028,4609.36,70.62,Highly Developed
+Jordan,2029,4654.6,72.18,Highly Developed
+Jordan,2030,4699.85,73.75,Highly Developed
+Jordan,2031,4745.09,75.31,Highly Developed
+Jordan,2032,4790.34,76.87,Highly Developed
+Jordan,2033,4835.58,78.43,Highly Developed
+Jordan,2034,4880.83,79.99,Highly Developed
+Jordan,2035,4926.07,81.56,Highly Developed
+Jordan,2036,4971.31,83.12,Highly Developed
+Jordan,2037,5016.56,84.68,Highly Developed
+Jordan,2038,5061.8,86.24,Highly Developed
+Jordan,2039,5107.05,87.8,Highly Developed
+Jordan,2040,5152.29,89.37,Highly Developed
+Kazakhstan,2025,12207.72,70.35,Highly Developed
+Kazakhstan,2026,12499.51,71.67,Highly Developed
+Kazakhstan,2027,12791.31,72.99,Highly Developed
+Kazakhstan,2028,13083.1,74.31,Highly Developed
+Kazakhstan,2029,13374.89,75.63,Highly Developed
+Kazakhstan,2030,13666.68,76.96,Highly Developed
+Kazakhstan,2031,13958.48,78.28,Highly Developed
+Kazakhstan,2032,14250.27,79.6,Highly Developed
+Kazakhstan,2033,14542.06,80.92,Highly Developed
+Kazakhstan,2034,14833.86,82.24,Highly Developed
+Kazakhstan,2035,15125.65,83.56,Highly Developed
+Kazakhstan,2036,15417.44,84.88,Highly Developed
+Kazakhstan,2037,15709.23,86.2,Highly Developed
+Kazakhstan,2038,16001.03,87.52,Highly Developed
+Kazakhstan,2039,16292.82,88.84,Highly Developed
+Kazakhstan,2040,16584.61,90.16,Highly Developed
+Kenya,2025,2248.03,39.71,Underdeveloped
+Kenya,2026,2317.19,40.2,Developing
+Kenya,2027,2386.35,40.7,Developing
+Kenya,2028,2455.5,41.19,Developing
+Kenya,2029,2524.66,41.68,Developing
+Kenya,2030,2593.82,42.17,Developing
+Kenya,2031,2662.97,42.66,Developing
+Kenya,2032,2732.13,43.15,Developing
+Kenya,2033,2801.29,43.64,Developing
+Kenya,2034,2870.44,44.13,Developing
+Kenya,2035,2939.6,44.62,Developing
+Kenya,2036,3008.76,45.11,Developing
+Kenya,2037,3077.91,45.6,Developing
+Kenya,2038,3147.07,46.09,Developing
+Kenya,2039,3216.23,46.58,Developing
+Kenya,2040,3285.38,47.07,Developing
+Kiribati,2025,2275.23,63.71,Developing
+Kiribati,2026,2334.05,66.48,Developing
+Kiribati,2027,2392.86,69.25,Developing
+Kiribati,2028,2451.67,72.02,Highly Developed
+Kiribati,2029,2510.48,74.79,Highly Developed
+Kiribati,2030,2569.3,77.55,Highly Developed
+Kiribati,2031,2628.11,80.32,Highly Developed
+Kiribati,2032,2686.92,83.09,Highly Developed
+Kiribati,2033,2745.73,85.86,Highly Developed
+Kiribati,2034,2804.55,88.63,Highly Developed
+Kiribati,2035,2863.36,91.4,Highly Developed
+Kiribati,2036,2922.17,94.16,Highly Developed
+Kiribati,2037,2980.98,96.93,Highly Developed
+Kiribati,2038,3039.8,99.7,Highly Developed
+Kiribati,2039,3098.61,100.0,Highly Developed
+Kiribati,2040,3157.42,100.0,Highly Developed
+Kuwait,2025,32744.58,75.27,Highly Developed
+Kuwait,2026,32740.97,75.98,Highly Developed
+Kuwait,2027,32737.37,76.7,Highly Developed
+Kuwait,2028,32733.76,77.41,Highly Developed
+Kuwait,2029,32730.16,78.12,Highly Developed
+Kuwait,2030,32726.56,78.84,Highly Developed
+Kuwait,2031,32722.95,79.55,Highly Developed
+Kuwait,2032,32719.35,80.26,Highly Developed
+Kuwait,2033,32715.74,80.98,Highly Developed
+Kuwait,2034,32712.14,81.69,Highly Developed
+Kuwait,2035,32708.54,82.41,Highly Developed
+Kuwait,2036,32704.93,83.12,Highly Developed
+Kuwait,2037,32701.33,83.83,Highly Developed
+Kuwait,2038,32697.72,84.55,Highly Developed
+Kuwait,2039,32694.12,85.26,Highly Developed
+Kuwait,2040,32690.52,85.97,Highly Developed
+Latvia,2025,23747.76,67.06,Developing
+Latvia,2026,24733.11,67.82,Developing
+Latvia,2027,25718.45,68.59,Developing
+Latvia,2028,26703.8,69.35,Developing
+Latvia,2029,27689.15,70.12,Highly Developed
+Latvia,2030,28674.49,70.88,Highly Developed
+Latvia,2031,29659.84,71.65,Highly Developed
+Latvia,2032,30645.19,72.41,Highly Developed
+Latvia,2033,31630.53,73.18,Highly Developed
+Latvia,2034,32615.88,73.95,Highly Developed
+Latvia,2035,33601.22,74.71,Highly Developed
+Latvia,2036,34586.57,75.48,Highly Developed
+Latvia,2037,35571.92,76.24,Highly Developed
+Latvia,2038,36557.26,77.01,Highly Developed
+Latvia,2039,37542.61,77.77,Highly Developed
+Latvia,2040,38527.95,78.54,Highly Developed
+Lebanon,2025,2926.63,59.08,Developing
+Lebanon,2026,2349.46,58.99,Developing
+Lebanon,2027,1772.3,58.91,Developing
+Lebanon,2028,1195.13,58.82,Developing
+Lebanon,2029,617.97,58.74,Developing
+Lebanon,2030,40.8,58.65,Developing
+Lebanon,2031,0.0,58.57,Developing
+Lebanon,2032,0.0,58.48,Developing
+Lebanon,2033,0.0,58.4,Developing
+Lebanon,2034,0.0,58.31,Developing
+Lebanon,2035,0.0,58.23,Developing
+Lebanon,2036,0.0,58.14,Developing
+Lebanon,2037,0.0,58.06,Developing
+Lebanon,2038,0.0,57.97,Developing
+Lebanon,2039,0.0,57.89,Developing
+Lebanon,2040,0.0,57.8,Developing
+Lesotho,2025,939.02,42.8,Developing
+Lesotho,2026,921.09,43.91,Developing
+Lesotho,2027,903.16,45.02,Developing
+Lesotho,2028,885.23,46.14,Developing
+Lesotho,2029,867.3,47.25,Developing
+Lesotho,2030,849.36,48.37,Developing
+Lesotho,2031,831.43,49.48,Developing
+Lesotho,2032,813.5,50.6,Developing
+Lesotho,2033,795.57,51.71,Developing
+Lesotho,2034,777.63,52.83,Developing
+Lesotho,2035,759.7,53.94,Developing
+Lesotho,2036,741.77,55.06,Developing
+Lesotho,2037,723.84,56.17,Developing
+Lesotho,2038,705.91,57.29,Developing
+Lesotho,2039,687.97,58.4,Developing
+Lesotho,2040,670.04,59.52,Developing
+Liberia,2025,773.18,43.36,Developing
+Liberia,2026,783.2,44.67,Developing
+Liberia,2027,793.23,45.98,Developing
+Liberia,2028,803.25,47.3,Developing
+Liberia,2029,813.27,48.61,Developing
+Liberia,2030,823.29,49.92,Developing
+Liberia,2031,833.31,51.24,Developing
+Liberia,2032,843.33,52.55,Developing
+Liberia,2033,853.35,53.86,Developing
+Liberia,2034,863.37,55.18,Developing
+Liberia,2035,873.39,56.49,Developing
+Liberia,2036,883.42,57.8,Developing
+Liberia,2037,893.44,59.12,Developing
+Liberia,2038,903.46,60.43,Developing
+Liberia,2039,913.48,61.74,Developing
+Liberia,2040,923.5,63.06,Developing
+Libya,2025,5742.0,62.41,Developing
+Libya,2026,5408.02,64.48,Developing
+Libya,2027,5074.04,66.54,Developing
+Libya,2028,4740.06,68.61,Developing
+Libya,2029,4406.08,70.68,Highly Developed
+Libya,2030,4072.1,72.74,Highly Developed
+Libya,2031,3738.12,74.81,Highly Developed
+Libya,2032,3404.14,76.88,Highly Developed
+Libya,2033,3070.15,78.94,Highly Developed
+Libya,2034,2736.17,81.01,Highly Developed
+Libya,2035,2402.19,83.08,Highly Developed
+Libya,2036,2068.21,85.15,Highly Developed
+Libya,2037,1734.23,87.21,Highly Developed
+Libya,2038,1400.25,89.28,Highly Developed
+Libya,2039,1066.27,91.35,Highly Developed
+Libya,2040,732.29,93.41,Highly Developed
+Liechtenstein,2025,203949.45,82.26,Highly Developed
+Liechtenstein,2026,207759.61,81.92,Highly Developed
+Liechtenstein,2027,211569.77,81.58,Highly Developed
+Liechtenstein,2028,215379.92,81.24,Highly Developed
+Liechtenstein,2029,219190.08,80.9,Highly Developed
+Liechtenstein,2030,223000.24,80.56,Highly Developed
+Liechtenstein,2031,226810.39,80.22,Highly Developed
+Liechtenstein,2032,230620.55,79.88,Highly Developed
+Liechtenstein,2033,234430.71,79.54,Highly Developed
+Liechtenstein,2034,238240.86,79.2,Highly Developed
+Liechtenstein,2035,242051.02,78.86,Highly Developed
+Liechtenstein,2036,245861.18,78.52,Highly Developed
+Liechtenstein,2037,249671.33,78.18,Highly Developed
+Liechtenstein,2038,253481.49,77.85,Highly Developed
+Liechtenstein,2039,257291.65,77.51,Highly Developed
+Liechtenstein,2040,261101.8,77.17,Highly Developed
+Luxembourg,2025,135575.62,83.27,Highly Developed
+Luxembourg,2026,138134.97,83.69,Highly Developed
+Luxembourg,2027,140694.32,84.12,Highly Developed
+Luxembourg,2028,143253.68,84.55,Highly Developed
+Luxembourg,2029,145813.03,84.98,Highly Developed
+Luxembourg,2030,148372.38,85.41,Highly Developed
+Luxembourg,2031,150931.74,85.84,Highly Developed
+Luxembourg,2032,153491.09,86.27,Highly Developed
+Luxembourg,2033,156050.44,86.69,Highly Developed
+Luxembourg,2034,158609.8,87.12,Highly Developed
+Luxembourg,2035,161169.15,87.55,Highly Developed
+Luxembourg,2036,163728.5,87.98,Highly Developed
+Luxembourg,2037,166287.86,88.41,Highly Developed
+Luxembourg,2038,168847.21,88.84,Highly Developed
+Luxembourg,2039,171406.57,89.26,Highly Developed
+Luxembourg,2040,173965.92,89.69,Highly Developed
+Madagascar,2025,518.9,33.9,Underdeveloped
+Madagascar,2026,523.74,34.12,Underdeveloped
+Madagascar,2027,528.58,34.35,Underdeveloped
+Madagascar,2028,533.42,34.57,Underdeveloped
+Madagascar,2029,538.26,34.8,Underdeveloped
+Madagascar,2030,543.1,35.02,Underdeveloped
+Madagascar,2031,547.94,35.25,Underdeveloped
+Madagascar,2032,552.77,35.47,Underdeveloped
+Madagascar,2033,557.61,35.7,Underdeveloped
+Madagascar,2034,562.45,35.93,Underdeveloped
+Madagascar,2035,567.29,36.15,Underdeveloped
+Madagascar,2036,572.13,36.38,Underdeveloped
+Madagascar,2037,576.97,36.6,Underdeveloped
+Madagascar,2038,581.81,36.83,Underdeveloped
+Madagascar,2039,586.65,37.05,Underdeveloped
+Madagascar,2040,591.48,37.28,Underdeveloped
+Malawi,2025,616.15,37.54,Underdeveloped
+Malawi,2026,626.28,38.49,Underdeveloped
+Malawi,2027,636.4,39.44,Underdeveloped
+Malawi,2028,646.53,40.39,Developing
+Malawi,2029,656.65,41.34,Developing
+Malawi,2030,666.78,42.28,Developing
+Malawi,2031,676.9,43.23,Developing
+Malawi,2032,687.02,44.18,Developing
+Malawi,2033,697.15,45.13,Developing
+Malawi,2034,707.27,46.07,Developing
+Malawi,2035,717.4,47.02,Developing
+Malawi,2036,727.52,47.97,Developing
+Malawi,2037,737.65,48.92,Developing
+Malawi,2038,747.77,49.86,Developing
+Malawi,2039,757.89,50.81,Developing
+Malawi,2040,768.02,51.76,Developing
+Malaysia,2025,11748.57,71.38,Highly Developed
+Malaysia,2026,11923.35,72.58,Highly Developed
+Malaysia,2027,12098.14,73.78,Highly Developed
+Malaysia,2028,12272.92,74.97,Highly Developed
+Malaysia,2029,12447.7,76.17,Highly Developed
+Malaysia,2030,12622.48,77.36,Highly Developed
+Malaysia,2031,12797.26,78.56,Highly Developed
+Malaysia,2032,12972.04,79.76,Highly Developed
+Malaysia,2033,13146.82,80.95,Highly Developed
+Malaysia,2034,13321.61,82.15,Highly Developed
+Malaysia,2035,13496.39,83.34,Highly Developed
+Malaysia,2036,13671.17,84.54,Highly Developed
+Malaysia,2037,13845.95,85.73,Highly Developed
+Malaysia,2038,14020.73,86.93,Highly Developed
+Malaysia,2039,14195.51,88.13,Highly Developed
+Malaysia,2040,14370.3,89.32,Highly Developed
+Maldives,2025,12582.03,68.39,Developing
+Maldives,2026,12898.3,69.57,Developing
+Maldives,2027,13214.58,70.74,Highly Developed
+Maldives,2028,13530.86,71.91,Highly Developed
+Maldives,2029,13847.13,73.09,Highly Developed
+Maldives,2030,14163.41,74.26,Highly Developed
+Maldives,2031,14479.69,75.44,Highly Developed
+Maldives,2032,14795.96,76.61,Highly Developed
+Maldives,2033,15112.24,77.79,Highly Developed
+Maldives,2034,15428.52,78.96,Highly Developed
+Maldives,2035,15744.8,80.14,Highly Developed
+Maldives,2036,16061.07,81.31,Highly Developed
+Maldives,2037,16377.35,82.48,Highly Developed
+Maldives,2038,16693.63,83.66,Highly Developed
+Maldives,2039,17009.9,84.83,Highly Developed
+Maldives,2040,17326.18,86.01,Highly Developed
+Mali,2025,1078.82,36.41,Underdeveloped
+Mali,2026,1097.3,37.44,Underdeveloped
+Mali,2027,1115.79,38.47,Underdeveloped
+Mali,2028,1134.28,39.5,Underdeveloped
+Mali,2029,1152.76,40.53,Developing
+Mali,2030,1171.25,41.56,Developing
+Mali,2031,1189.73,42.59,Developing
+Mali,2032,1208.22,43.62,Developing
+Mali,2033,1226.71,44.65,Developing
+Mali,2034,1245.19,45.67,Developing
+Mali,2035,1263.68,46.7,Developing
+Mali,2036,1282.17,47.73,Developing
+Mali,2037,1300.65,48.76,Developing
+Mali,2038,1319.14,49.79,Developing
+Mali,2039,1337.62,50.82,Developing
+Mali,2040,1356.11,51.85,Developing
+Malta,2025,43376.99,73.26,Highly Developed
+Malta,2026,45062.57,74.04,Highly Developed
+Malta,2027,46748.16,74.83,Highly Developed
+Malta,2028,48433.74,75.61,Highly Developed
+Malta,2029,50119.33,76.39,Highly Developed
+Malta,2030,51804.91,77.17,Highly Developed
+Malta,2031,53490.5,77.95,Highly Developed
+Malta,2032,55176.08,78.74,Highly Developed
+Malta,2033,56861.66,79.52,Highly Developed
+Malta,2034,58547.25,80.3,Highly Developed
+Malta,2035,60232.83,81.08,Highly Developed
+Malta,2036,61918.42,81.86,Highly Developed
+Malta,2037,63604.0,82.65,Highly Developed
+Malta,2038,65289.59,83.43,Highly Developed
+Malta,2039,66975.17,84.21,Highly Developed
+Malta,2040,68660.76,84.99,Highly Developed
+Marshall Islands,2025,7747.61,57.36,Developing
+Marshall Islands,2026,8138.49,59.1,Developing
+Marshall Islands,2027,8529.38,60.83,Developing
+Marshall Islands,2028,8920.26,62.57,Developing
+Marshall Islands,2029,9311.15,64.3,Developing
+Marshall Islands,2030,9702.04,66.04,Developing
+Marshall Islands,2031,10092.92,67.77,Developing
+Marshall Islands,2032,10483.81,69.5,Developing
+Marshall Islands,2033,10874.69,71.24,Highly Developed
+Marshall Islands,2034,11265.58,72.97,Highly Developed
+Marshall Islands,2035,11656.47,74.71,Highly Developed
+Marshall Islands,2036,12047.35,76.44,Highly Developed
+Marshall Islands,2037,12438.24,78.18,Highly Developed
+Marshall Islands,2038,12829.12,79.91,Highly Developed
+Marshall Islands,2039,13220.01,81.65,Highly Developed
+Marshall Islands,2040,13610.89,83.38,Highly Developed
+Mauritania,2025,2147.92,46.93,Developing
+Mauritania,2026,2204.57,48.44,Developing
+Mauritania,2027,2261.22,49.94,Developing
+Mauritania,2028,2317.86,51.45,Developing
+Mauritania,2029,2374.51,52.96,Developing
+Mauritania,2030,2431.15,54.47,Developing
+Mauritania,2031,2487.8,55.97,Developing
+Mauritania,2032,2544.45,57.48,Developing
+Mauritania,2033,2601.09,58.99,Developing
+Mauritania,2034,2657.74,60.5,Developing
+Mauritania,2035,2714.38,62.0,Developing
+Mauritania,2036,2771.03,63.51,Developing
+Mauritania,2037,2827.68,65.02,Developing
+Mauritania,2038,2884.32,66.53,Developing
+Mauritania,2039,2940.97,68.03,Developing
+Mauritania,2040,2997.61,69.54,Developing
+Mauritius,2025,11030.77,61.9,Developing
+Mauritius,2026,11105.43,62.97,Developing
+Mauritius,2027,11180.1,64.04,Developing
+Mauritius,2028,11254.76,65.12,Developing
+Mauritius,2029,11329.43,66.19,Developing
+Mauritius,2030,11404.09,67.26,Developing
+Mauritius,2031,11478.76,68.34,Developing
+Mauritius,2032,11553.42,69.41,Developing
+Mauritius,2033,11628.09,70.48,Highly Developed
+Mauritius,2034,11702.75,71.56,Highly Developed
+Mauritius,2035,11777.42,72.63,Highly Developed
+Mauritius,2036,11852.09,73.7,Highly Developed
+Mauritius,2037,11926.75,74.77,Highly Developed
+Mauritius,2038,12001.42,75.85,Highly Developed
+Mauritius,2039,12076.08,76.92,Highly Developed
+Mauritius,2040,12150.75,77.99,Highly Developed
+Mexico,2025,12820.58,62.81,Developing
+Mexico,2026,13150.95,63.94,Developing
+Mexico,2027,13481.31,65.08,Developing
+Mexico,2028,13811.68,66.21,Developing
+Mexico,2029,14142.05,67.35,Developing
+Mexico,2030,14472.42,68.49,Developing
+Mexico,2031,14802.79,69.62,Developing
+Mexico,2032,15133.16,70.76,Highly Developed
+Mexico,2033,15463.52,71.89,Highly Developed
+Mexico,2034,15793.89,73.03,Highly Developed
+Mexico,2035,16124.26,74.17,Highly Developed
+Mexico,2036,16454.63,75.3,Highly Developed
+Mexico,2037,16785.0,76.44,Highly Developed
+Mexico,2038,17115.37,77.57,Highly Developed
+Mexico,2039,17445.74,78.71,Highly Developed
+Mexico,2040,17776.1,79.85,Highly Developed
+Moldova,2025,7343.92,57.35,Developing
+Moldova,2026,7800.14,57.47,Developing
+Moldova,2027,8256.37,57.6,Developing
+Moldova,2028,8712.6,57.72,Developing
+Moldova,2029,9168.82,57.84,Developing
+Moldova,2030,9625.05,57.96,Developing
+Moldova,2031,10081.28,58.08,Developing
+Moldova,2032,10537.51,58.2,Developing
+Moldova,2033,10993.73,58.32,Developing
+Moldova,2034,11449.96,58.45,Developing
+Moldova,2035,11906.19,58.57,Developing
+Moldova,2036,12362.41,58.69,Developing
+Moldova,2037,12818.64,58.81,Developing
+Moldova,2038,13274.87,58.93,Developing
+Moldova,2039,13731.09,59.05,Developing
+Moldova,2040,14187.32,59.17,Developing
+Monaco,2025,263596.33,97.67,Highly Developed
+Monaco,2026,273225.83,98.98,Highly Developed
+Monaco,2027,282855.33,100.0,Highly Developed
+Monaco,2028,292484.84,100.0,Highly Developed
+Monaco,2029,302114.34,100.0,Highly Developed
+Monaco,2030,311743.84,100.0,Highly Developed
+Monaco,2031,321373.35,100.0,Highly Developed
+Monaco,2032,331002.85,100.0,Highly Developed
+Monaco,2033,340632.35,100.0,Highly Developed
+Monaco,2034,350261.86,100.0,Highly Developed
+Monaco,2035,359891.36,100.0,Highly Developed
+Monaco,2036,369520.86,100.0,Highly Developed
+Monaco,2037,379150.37,100.0,Highly Developed
+Monaco,2038,388779.87,100.0,Highly Developed
+Monaco,2039,398409.37,100.0,Highly Developed
+Monaco,2040,408038.87,100.0,Highly Developed
+Mongolia,2025,5992.27,67.9,Developing
+Mongolia,2026,6236.62,70.63,Highly Developed
+Mongolia,2027,6480.97,73.36,Highly Developed
+Mongolia,2028,6725.32,76.09,Highly Developed
+Mongolia,2029,6969.67,78.82,Highly Developed
+Mongolia,2030,7214.02,81.54,Highly Developed
+Mongolia,2031,7458.37,84.27,Highly Developed
+Mongolia,2032,7702.72,87.0,Highly Developed
+Mongolia,2033,7947.07,89.73,Highly Developed
+Mongolia,2034,8191.42,92.46,Highly Developed
+Mongolia,2035,8435.78,95.19,Highly Developed
+Mongolia,2036,8680.13,97.91,Highly Developed
+Mongolia,2037,8924.48,100.0,Highly Developed
+Mongolia,2038,9168.83,100.0,Highly Developed
+Mongolia,2039,9413.18,100.0,Highly Developed
+Mongolia,2040,9657.53,100.0,Highly Developed
+Montenegro,2025,12436.41,64.29,Developing
+Montenegro,2026,13020.78,65.29,Developing
+Montenegro,2027,13605.16,66.29,Developing
+Montenegro,2028,14189.54,67.29,Developing
+Montenegro,2029,14773.92,68.29,Developing
+Montenegro,2030,15358.29,69.29,Developing
+Montenegro,2031,15942.67,70.29,Highly Developed
+Montenegro,2032,16527.05,71.29,Highly Developed
+Montenegro,2033,17111.43,72.29,Highly Developed
+Montenegro,2034,17695.8,73.29,Highly Developed
+Montenegro,2035,18280.18,74.29,Highly Developed
+Montenegro,2036,18864.56,75.29,Highly Developed
+Montenegro,2037,19448.94,76.29,Highly Developed
+Montenegro,2038,20033.32,77.29,Highly Developed
+Montenegro,2039,20617.69,78.29,Highly Developed
+Montenegro,2040,21202.07,79.29,Highly Developed
+Morocco,2025,3935.94,68.66,Developing
+Morocco,2026,4008.4,70.65,Highly Developed
+Morocco,2027,4080.87,72.64,Highly Developed
+Morocco,2028,4153.33,74.63,Highly Developed
+Morocco,2029,4225.79,76.62,Highly Developed
+Morocco,2030,4298.25,78.6,Highly Developed
+Morocco,2031,4370.72,80.59,Highly Developed
+Morocco,2032,4443.18,82.58,Highly Developed
+Morocco,2033,4515.64,84.57,Highly Developed
+Morocco,2034,4588.1,86.55,Highly Developed
+Morocco,2035,4660.56,88.54,Highly Developed
+Morocco,2036,4733.03,90.53,Highly Developed
+Morocco,2037,4805.49,92.52,Highly Developed
+Morocco,2038,4877.95,94.51,Highly Developed
+Morocco,2039,4950.41,96.49,Highly Developed
+Morocco,2040,5022.88,98.48,Highly Developed
+Mozambique,2025,568.4,33.01,Underdeveloped
+Mozambique,2026,570.91,33.97,Underdeveloped
+Mozambique,2027,573.43,34.93,Underdeveloped
+Mozambique,2028,575.95,35.89,Underdeveloped
+Mozambique,2029,578.47,36.85,Underdeveloped
+Mozambique,2030,580.99,37.81,Underdeveloped
+Mozambique,2031,583.51,38.77,Underdeveloped
+Mozambique,2032,586.03,39.73,Underdeveloped
+Mozambique,2033,588.55,40.69,Developing
+Mozambique,2034,591.06,41.65,Developing
+Mozambique,2035,593.58,42.61,Developing
+Mozambique,2036,596.1,43.57,Developing
+Mozambique,2037,598.62,44.53,Developing
+Mozambique,2038,601.14,45.49,Developing
+Mozambique,2039,603.66,46.45,Developing
+Mozambique,2040,606.18,47.41,Developing
+Myanmar,2025,1316.17,58.03,Developing
+Myanmar,2026,1320.85,60.36,Developing
+Myanmar,2027,1325.52,62.68,Developing
+Myanmar,2028,1330.2,65.0,Developing
+Myanmar,2029,1334.88,67.33,Developing
+Myanmar,2030,1339.55,69.65,Developing
+Myanmar,2031,1344.23,71.97,Highly Developed
+Myanmar,2032,1348.91,74.29,Highly Developed
+Myanmar,2033,1353.59,76.62,Highly Developed
+Myanmar,2034,1358.26,78.94,Highly Developed
+Myanmar,2035,1362.94,81.26,Highly Developed
+Myanmar,2036,1367.62,83.59,Highly Developed
+Myanmar,2037,1372.29,85.91,Highly Developed
+Myanmar,2038,1376.97,88.23,Highly Developed
+Myanmar,2039,1381.65,90.56,Highly Developed
+Myanmar,2040,1386.32,92.88,Highly Developed
+Namibia,2025,4077.58,52.45,Developing
+Namibia,2026,3984.84,54.27,Developing
+Namibia,2027,3892.09,56.09,Developing
+Namibia,2028,3799.35,57.91,Developing
+Namibia,2029,3706.6,59.73,Developing
+Namibia,2030,3613.86,61.56,Developing
+Namibia,2031,3521.11,63.38,Developing
+Namibia,2032,3428.37,65.2,Developing
+Namibia,2033,3335.63,67.02,Developing
+Namibia,2034,3242.88,68.84,Developing
+Namibia,2035,3150.14,70.66,Highly Developed
+Namibia,2036,3057.39,72.49,Highly Developed
+Namibia,2037,2964.65,74.31,Highly Developed
+Namibia,2038,2871.9,76.13,Highly Developed
+Namibia,2039,2779.16,77.95,Highly Developed
+Namibia,2040,2686.41,79.77,Highly Developed
+Nauru,2025,14651.64,58.38,Developing
+Nauru,2026,15236.61,59.22,Developing
+Nauru,2027,15821.59,60.06,Developing
+Nauru,2028,16406.56,60.91,Developing
+Nauru,2029,16991.53,61.75,Developing
+Nauru,2030,17576.51,62.59,Developing
+Nauru,2031,18161.48,63.44,Developing
+Nauru,2032,18746.46,64.28,Developing
+Nauru,2033,19331.43,65.12,Developing
+Nauru,2034,19916.41,65.97,Developing
+Nauru,2035,20501.38,66.81,Developing
+Nauru,2036,21086.36,67.65,Developing
+Nauru,2037,21671.33,68.5,Developing
+Nauru,2038,22256.31,69.34,Developing
+Nauru,2039,22841.28,70.18,Highly Developed
+Nauru,2040,23426.26,71.03,Highly Developed
+Nepal,2025,1533.64,49.09,Developing
+Nepal,2026,1598.13,50.72,Developing
+Nepal,2027,1662.62,52.35,Developing
+Nepal,2028,1727.12,53.98,Developing
+Nepal,2029,1791.61,55.62,Developing
+Nepal,2030,1856.11,57.25,Developing
+Nepal,2031,1920.6,58.88,Developing
+Nepal,2032,1985.09,60.51,Developing
+Nepal,2033,2049.59,62.15,Developing
+Nepal,2034,2114.08,63.78,Developing
+Nepal,2035,2178.58,65.41,Developing
+Nepal,2036,2243.07,67.04,Developing
+Nepal,2037,2307.56,68.68,Developing
+Nepal,2038,2372.06,70.31,Highly Developed
+Nepal,2039,2436.55,71.94,Highly Developed
+Nepal,2040,2501.05,73.57,Highly Developed
+Netherlands,2025,66018.42,75.07,Highly Developed
+Netherlands,2026,67826.76,75.37,Highly Developed
+Netherlands,2027,69635.1,75.67,Highly Developed
+Netherlands,2028,71443.43,75.97,Highly Developed
+Netherlands,2029,73251.77,76.27,Highly Developed
+Netherlands,2030,75060.11,76.57,Highly Developed
+Netherlands,2031,76868.44,76.87,Highly Developed
+Netherlands,2032,78676.78,77.16,Highly Developed
+Netherlands,2033,80485.11,77.46,Highly Developed
+Netherlands,2034,82293.45,77.76,Highly Developed
+Netherlands,2035,84101.79,78.06,Highly Developed
+Netherlands,2036,85910.12,78.36,Highly Developed
+Netherlands,2037,87718.46,78.66,Highly Developed
+Netherlands,2038,89526.8,78.95,Highly Developed
+Netherlands,2039,91335.13,79.25,Highly Developed
+Netherlands,2040,93143.47,79.55,Highly Developed
+New Zealand,2025,50395.92,73.11,Highly Developed
+New Zealand,2026,51343.88,73.55,Highly Developed
+New Zealand,2027,52291.84,73.99,Highly Developed
+New Zealand,2028,53239.8,74.44,Highly Developed
+New Zealand,2029,54187.76,74.88,Highly Developed
+New Zealand,2030,55135.72,75.32,Highly Developed
+New Zealand,2031,56083.68,75.77,Highly Developed
+New Zealand,2032,57031.64,76.21,Highly Developed
+New Zealand,2033,57979.6,76.65,Highly Developed
+New Zealand,2034,58927.56,77.1,Highly Developed
+New Zealand,2035,59875.52,77.54,Highly Developed
+New Zealand,2036,60823.48,77.98,Highly Developed
+New Zealand,2037,61771.44,78.43,Highly Developed
+New Zealand,2038,62719.4,78.87,Highly Developed
+New Zealand,2039,63667.36,79.31,Highly Developed
+New Zealand,2040,64615.33,79.76,Highly Developed
+Nicaragua,2025,2580.2,57.24,Developing
+Nicaragua,2026,2643.6,58.93,Developing
+Nicaragua,2027,2707.0,60.62,Developing
+Nicaragua,2028,2770.4,62.3,Developing
+Nicaragua,2029,2833.81,63.99,Developing
+Nicaragua,2030,2897.21,65.67,Developing
+Nicaragua,2031,2960.61,67.36,Developing
+Nicaragua,2032,3024.01,69.04,Developing
+Nicaragua,2033,3087.41,70.73,Highly Developed
+Nicaragua,2034,3150.82,72.42,Highly Developed
+Nicaragua,2035,3214.22,74.1,Highly Developed
+Nicaragua,2036,3277.62,75.79,Highly Developed
+Nicaragua,2037,3341.02,77.47,Highly Developed
+Nicaragua,2038,3404.42,79.16,Highly Developed
+Nicaragua,2039,3467.83,80.84,Highly Developed
+Nicaragua,2040,3531.23,82.53,Highly Developed
+Niger,2025,687.38,33.51,Underdeveloped
+Niger,2026,705.16,34.69,Underdeveloped
+Niger,2027,722.95,35.87,Underdeveloped
+Niger,2028,740.73,37.05,Underdeveloped
+Niger,2029,758.52,38.23,Underdeveloped
+Niger,2030,776.31,39.4,Underdeveloped
+Niger,2031,794.09,40.58,Developing
+Niger,2032,811.88,41.76,Developing
+Niger,2033,829.66,42.94,Developing
+Niger,2034,847.45,44.12,Developing
+Niger,2035,865.23,45.3,Developing
+Niger,2036,883.02,46.48,Developing
+Niger,2037,900.8,47.66,Developing
+Niger,2038,918.59,48.84,Developing
+Niger,2039,936.37,50.02,Developing
+Niger,2040,954.16,51.2,Developing
+Nigeria,2025,2047.09,34.3,Underdeveloped
+Nigeria,2026,1985.61,34.68,Underdeveloped
+Nigeria,2027,1924.13,35.06,Underdeveloped
+Nigeria,2028,1862.65,35.45,Underdeveloped
+Nigeria,2029,1801.17,35.83,Underdeveloped
+Nigeria,2030,1739.68,36.21,Underdeveloped
+Nigeria,2031,1678.2,36.59,Underdeveloped
+Nigeria,2032,1616.72,36.97,Underdeveloped
+Nigeria,2033,1555.24,37.36,Underdeveloped
+Nigeria,2034,1493.76,37.74,Underdeveloped
+Nigeria,2035,1432.28,38.12,Underdeveloped
+Nigeria,2036,1370.8,38.5,Underdeveloped
+Nigeria,2037,1309.32,38.89,Underdeveloped
+Nigeria,2038,1247.84,39.27,Underdeveloped
+Nigeria,2039,1186.36,39.65,Underdeveloped
+Nigeria,2040,1124.88,40.03,Developing
+North Macedonia,2025,9081.35,63.72,Developing
+North Macedonia,2026,9442.98,64.74,Developing
+North Macedonia,2027,9804.61,65.76,Developing
+North Macedonia,2028,10166.23,66.77,Developing
+North Macedonia,2029,10527.86,67.79,Developing
+North Macedonia,2030,10889.49,68.81,Developing
+North Macedonia,2031,11251.11,69.83,Developing
+North Macedonia,2032,11612.74,70.84,Highly Developed
+North Macedonia,2033,11974.37,71.86,Highly Developed
+North Macedonia,2034,12335.99,72.88,Highly Developed
+North Macedonia,2035,12697.62,73.9,Highly Developed
+North Macedonia,2036,13059.25,74.91,Highly Developed
+North Macedonia,2037,13420.87,75.93,Highly Developed
+North Macedonia,2038,13782.5,76.95,Highly Developed
+North Macedonia,2039,14144.13,77.97,Highly Developed
+North Macedonia,2040,14505.75,78.98,Highly Developed
+Norway,2025,91113.77,79.34,Highly Developed
+Norway,2026,92304.48,79.63,Highly Developed
+Norway,2027,93495.19,79.92,Highly Developed
+Norway,2028,94685.91,80.22,Highly Developed
+Norway,2029,95876.62,80.51,Highly Developed
+Norway,2030,97067.33,80.8,Highly Developed
+Norway,2031,98258.05,81.09,Highly Developed
+Norway,2032,99448.76,81.38,Highly Developed
+Norway,2033,100639.47,81.68,Highly Developed
+Norway,2034,101830.19,81.97,Highly Developed
+Norway,2035,103020.9,82.26,Highly Developed
+Norway,2036,104211.61,82.55,Highly Developed
+Norway,2037,105402.33,82.84,Highly Developed
+Norway,2038,106593.04,83.14,Highly Developed
+Norway,2039,107783.75,83.43,Highly Developed
+Norway,2040,108974.47,83.72,Highly Developed
+Oman,2025,20403.68,71.71,Highly Developed
+Oman,2026,20520.86,72.56,Highly Developed
+Oman,2027,20638.05,73.42,Highly Developed
+Oman,2028,20755.24,74.28,Highly Developed
+Oman,2029,20872.43,75.13,Highly Developed
+Oman,2030,20989.62,75.99,Highly Developed
+Oman,2031,21106.8,76.85,Highly Developed
+Oman,2032,21223.99,77.7,Highly Developed
+Oman,2033,21341.18,78.56,Highly Developed
+Oman,2034,21458.37,79.41,Highly Developed
+Oman,2035,21575.56,80.27,Highly Developed
+Oman,2036,21692.74,81.13,Highly Developed
+Oman,2037,21809.93,81.98,Highly Developed
+Oman,2038,21927.12,82.84,Highly Developed
+Oman,2039,22044.31,83.7,Highly Developed
+Oman,2040,22161.5,84.55,Highly Developed
+Pakistan,2025,1473.03,52.43,Developing
+Pakistan,2026,1481.23,55.16,Developing
+Pakistan,2027,1489.43,57.9,Developing
+Pakistan,2028,1497.64,60.63,Developing
+Pakistan,2029,1505.84,63.37,Developing
+Pakistan,2030,1514.04,66.1,Developing
+Pakistan,2031,1522.25,68.84,Developing
+Pakistan,2032,1530.45,71.57,Highly Developed
+Pakistan,2033,1538.65,74.3,Highly Developed
+Pakistan,2034,1546.85,77.04,Highly Developed
+Pakistan,2035,1555.06,79.77,Highly Developed
+Pakistan,2036,1563.26,82.51,Highly Developed
+Pakistan,2037,1571.46,85.24,Highly Developed
+Pakistan,2038,1579.67,87.98,Highly Developed
+Pakistan,2039,1587.87,90.71,Highly Developed
+Pakistan,2040,1596.07,93.44,Highly Developed
+Palau,2025,14644.29,59.11,Developing
+Palau,2026,14535.72,59.57,Developing
+Palau,2027,14427.16,60.02,Developing
+Palau,2028,14318.6,60.48,Developing
+Palau,2029,14210.03,60.94,Developing
+Palau,2030,14101.47,61.4,Developing
+Palau,2031,13992.9,61.86,Developing
+Palau,2032,13884.34,62.32,Developing
+Palau,2033,13775.78,62.78,Developing
+Palau,2034,13667.21,63.24,Developing
+Palau,2035,13558.65,63.69,Developing
+Palau,2036,13450.08,64.15,Developing
+Palau,2037,13341.52,64.61,Developing
+Palau,2038,13232.95,65.07,Developing
+Palau,2039,13124.39,65.53,Developing
+Palau,2040,13015.83,65.99,Developing
+Panama,2025,18763.04,62.6,Developing
+Panama,2026,19244.92,63.48,Developing
+Panama,2027,19726.79,64.37,Developing
+Panama,2028,20208.67,65.25,Developing
+Panama,2029,20690.55,66.14,Developing
+Panama,2030,21172.43,67.02,Developing
+Panama,2031,21654.31,67.91,Developing
+Panama,2032,22136.18,68.79,Developing
+Panama,2033,22618.06,69.68,Developing
+Panama,2034,23099.94,70.56,Highly Developed
+Panama,2035,23581.82,71.45,Highly Developed
+Panama,2036,24063.7,72.34,Highly Developed
+Panama,2037,24545.57,73.22,Highly Developed
+Panama,2038,25027.45,74.11,Highly Developed
+Panama,2039,25509.33,74.99,Highly Developed
+Panama,2040,25991.21,75.88,Highly Developed
+Papua New Guinea,2025,2977.34,38.86,Underdeveloped
+Papua New Guinea,2026,3030.29,39.42,Underdeveloped
+Papua New Guinea,2027,3083.24,39.98,Underdeveloped
+Papua New Guinea,2028,3136.18,40.54,Developing
+Papua New Guinea,2029,3189.13,41.1,Developing
+Papua New Guinea,2030,3242.08,41.66,Developing
+Papua New Guinea,2031,3295.02,42.22,Developing
+Papua New Guinea,2032,3347.97,42.78,Developing
+Papua New Guinea,2033,3400.91,43.34,Developing
+Papua New Guinea,2034,3453.86,43.89,Developing
+Papua New Guinea,2035,3506.81,44.45,Developing
+Papua New Guinea,2036,3559.75,45.01,Developing
+Papua New Guinea,2037,3612.7,45.57,Developing
+Papua New Guinea,2038,3665.65,46.13,Developing
+Papua New Guinea,2039,3718.59,46.69,Developing
+Papua New Guinea,2040,3771.54,47.25,Developing
+Paraguay,2025,6102.96,61.41,Developing
+Paraguay,2026,6107.95,62.39,Developing
+Paraguay,2027,6112.95,63.37,Developing
+Paraguay,2028,6117.94,64.35,Developing
+Paraguay,2029,6122.94,65.33,Developing
+Paraguay,2030,6127.94,66.32,Developing
+Paraguay,2031,6132.93,67.3,Developing
+Paraguay,2032,6137.93,68.28,Developing
+Paraguay,2033,6142.92,69.26,Developing
+Paraguay,2034,6147.92,70.24,Highly Developed
+Paraguay,2035,6152.92,71.22,Highly Developed
+Paraguay,2036,6157.91,72.2,Highly Developed
+Paraguay,2037,6162.91,73.18,Highly Developed
+Paraguay,2038,6167.9,74.16,Highly Developed
+Paraguay,2039,6172.9,75.14,Highly Developed
+Paraguay,2040,6177.9,76.12,Highly Developed
+Peru,2025,7953.52,62.12,Developing
+Peru,2026,8119.75,63.32,Developing
+Peru,2027,8285.98,64.52,Developing
+Peru,2028,8452.21,65.72,Developing
+Peru,2029,8618.44,66.92,Developing
+Peru,2030,8784.67,68.12,Developing
+Peru,2031,8950.9,69.32,Developing
+Peru,2032,9117.13,70.52,Highly Developed
+Peru,2033,9283.35,71.72,Highly Developed
+Peru,2034,9449.58,72.92,Highly Developed
+Peru,2035,9615.81,74.12,Highly Developed
+Peru,2036,9782.04,75.32,Highly Developed
+Peru,2037,9948.27,76.52,Highly Developed
+Peru,2038,10114.5,77.72,Highly Developed
+Peru,2039,10280.73,78.92,Highly Developed
+Peru,2040,10446.96,80.12,Highly Developed
+Philippines,2025,3954.77,59.0,Developing
+Philippines,2026,4062.11,60.36,Developing
+Philippines,2027,4169.45,61.72,Developing
+Philippines,2028,4276.79,63.09,Developing
+Philippines,2029,4384.12,64.45,Developing
+Philippines,2030,4491.46,65.81,Developing
+Philippines,2031,4598.8,67.17,Developing
+Philippines,2032,4706.13,68.53,Developing
+Philippines,2033,4813.47,69.89,Developing
+Philippines,2034,4920.81,71.26,Highly Developed
+Philippines,2035,5028.15,72.62,Highly Developed
+Philippines,2036,5135.48,73.98,Highly Developed
+Philippines,2037,5242.82,75.34,Highly Developed
+Philippines,2038,5350.16,76.7,Highly Developed
+Philippines,2039,5457.49,78.06,Highly Developed
+Philippines,2040,5564.83,79.43,Highly Developed
+Poland,2025,23510.0,69.93,Developing
+Poland,2026,24614.15,71.03,Highly Developed
+Poland,2027,25718.29,72.13,Highly Developed
+Poland,2028,26822.44,73.23,Highly Developed
+Poland,2029,27926.58,74.34,Highly Developed
+Poland,2030,29030.73,75.44,Highly Developed
+Poland,2031,30134.88,76.54,Highly Developed
+Poland,2032,31239.02,77.64,Highly Developed
+Poland,2033,32343.17,78.74,Highly Developed
+Poland,2034,33447.31,79.84,Highly Developed
+Poland,2035,34551.46,80.94,Highly Developed
+Poland,2036,35655.6,82.04,Highly Developed
+Poland,2037,36759.75,83.14,Highly Developed
+Poland,2038,37863.9,84.24,Highly Developed
+Poland,2039,38968.04,85.34,Highly Developed
+Poland,2040,40072.19,86.44,Highly Developed
+Portugal,2025,28313.82,69.52,Developing
+Portugal,2026,29120.64,70.43,Highly Developed
+Portugal,2027,29927.46,71.34,Highly Developed
+Portugal,2028,30734.28,72.25,Highly Developed
+Portugal,2029,31541.1,73.16,Highly Developed
+Portugal,2030,32347.92,74.07,Highly Developed
+Portugal,2031,33154.74,74.99,Highly Developed
+Portugal,2032,33961.56,75.9,Highly Developed
+Portugal,2033,34768.38,76.81,Highly Developed
+Portugal,2034,35575.2,77.72,Highly Developed
+Portugal,2035,36382.02,78.63,Highly Developed
+Portugal,2036,37188.84,79.54,Highly Developed
+Portugal,2037,37995.67,80.45,Highly Developed
+Portugal,2038,38802.49,81.37,Highly Developed
+Portugal,2039,39609.31,82.28,Highly Developed
+Portugal,2040,40416.13,83.19,Highly Developed
+Qatar,2025,74471.12,77.56,Highly Developed
+Qatar,2026,74793.83,77.7,Highly Developed
+Qatar,2027,75116.54,77.85,Highly Developed
+Qatar,2028,75439.26,78.0,Highly Developed
+Qatar,2029,75761.97,78.14,Highly Developed
+Qatar,2030,76084.68,78.29,Highly Developed
+Qatar,2031,76407.39,78.43,Highly Developed
+Qatar,2032,76730.1,78.58,Highly Developed
+Qatar,2033,77052.81,78.72,Highly Developed
+Qatar,2034,77375.52,78.87,Highly Developed
+Qatar,2035,77698.24,79.01,Highly Developed
+Qatar,2036,78020.95,79.16,Highly Developed
+Qatar,2037,78343.66,79.3,Highly Developed
+Qatar,2038,78666.37,79.45,Highly Developed
+Qatar,2039,78989.08,79.59,Highly Developed
+Qatar,2040,79311.79,79.74,Highly Developed
+Romania,2025,19540.87,68.06,Developing
+Romania,2026,20582.34,69.55,Developing
+Romania,2027,21623.81,71.03,Highly Developed
+Romania,2028,22665.28,72.52,Highly Developed
+Romania,2029,23706.75,74.0,Highly Developed
+Romania,2030,24748.22,75.49,Highly Developed
+Romania,2031,25789.69,76.98,Highly Developed
+Romania,2032,26831.17,78.46,Highly Developed
+Romania,2033,27872.64,79.95,Highly Developed
+Romania,2034,28914.11,81.43,Highly Developed
+Romania,2035,29955.58,82.92,Highly Developed
+Romania,2036,30997.05,84.41,Highly Developed
+Romania,2037,32038.52,85.89,Highly Developed
+Romania,2038,33080.0,87.38,Highly Developed
+Romania,2039,34121.47,88.87,Highly Developed
+Romania,2040,35162.94,90.35,Highly Developed
+Rwanda,2025,1018.07,40.32,Developing
+Rwanda,2026,1049.28,41.25,Developing
+Rwanda,2027,1080.48,42.18,Developing
+Rwanda,2028,1111.69,43.1,Developing
+Rwanda,2029,1142.9,44.03,Developing
+Rwanda,2030,1174.11,44.96,Developing
+Rwanda,2031,1205.32,45.88,Developing
+Rwanda,2032,1236.52,46.81,Developing
+Rwanda,2033,1267.73,47.74,Developing
+Rwanda,2034,1298.94,48.66,Developing
+Rwanda,2035,1330.15,49.59,Developing
+Rwanda,2036,1361.36,50.52,Developing
+Rwanda,2037,1392.57,51.44,Developing
+Rwanda,2038,1423.77,52.37,Developing
+Rwanda,2039,1454.98,53.3,Developing
+Rwanda,2040,1486.19,54.23,Developing
+Samoa,2025,4829.86,57.35,Developing
+Samoa,2026,4914.01,57.98,Developing
+Samoa,2027,4998.16,58.62,Developing
+Samoa,2028,5082.31,59.25,Developing
+Samoa,2029,5166.46,59.89,Developing
+Samoa,2030,5250.61,60.52,Developing
+Samoa,2031,5334.75,61.16,Developing
+Samoa,2032,5418.9,61.79,Developing
+Samoa,2033,5503.05,62.43,Developing
+Samoa,2034,5587.2,63.06,Developing
+Samoa,2035,5671.35,63.7,Developing
+Samoa,2036,5755.5,64.33,Developing
+Samoa,2037,5839.65,64.97,Developing
+Samoa,2038,5923.79,65.6,Developing
+Samoa,2039,6007.94,66.24,Developing
+Samoa,2040,6092.09,66.87,Developing
+San Marino,2025,58483.05,75.13,Highly Developed
+San Marino,2026,59881.84,76.37,Highly Developed
+San Marino,2027,61280.63,77.6,Highly Developed
+San Marino,2028,62679.42,78.84,Highly Developed
+San Marino,2029,64078.21,80.08,Highly Developed
+San Marino,2030,65477.0,81.31,Highly Developed
+San Marino,2031,66875.79,82.55,Highly Developed
+San Marino,2032,68274.58,83.79,Highly Developed
+San Marino,2033,69673.37,85.03,Highly Developed
+San Marino,2034,71072.16,86.26,Highly Developed
+San Marino,2035,72470.95,87.5,Highly Developed
+San Marino,2036,73869.74,88.74,Highly Developed
+San Marino,2037,75268.53,89.97,Highly Developed
+San Marino,2038,76667.32,91.21,Highly Developed
+San Marino,2039,78066.12,92.45,Highly Developed
+San Marino,2040,79464.91,93.68,Highly Developed
+Sao Tome and Principe,2025,3263.35,53.69,Developing
+Sao Tome and Principe,2026,3459.66,55.26,Developing
+Sao Tome and Principe,2027,3655.97,56.83,Developing
+Sao Tome and Principe,2028,3852.29,58.39,Developing
+Sao Tome and Principe,2029,4048.6,59.96,Developing
+Sao Tome and Principe,2030,4244.91,61.53,Developing
+Sao Tome and Principe,2031,4441.23,63.1,Developing
+Sao Tome and Principe,2032,4637.54,64.66,Developing
+Sao Tome and Principe,2033,4833.85,66.23,Developing
+Sao Tome and Principe,2034,5030.17,67.8,Developing
+Sao Tome and Principe,2035,5226.48,69.36,Developing
+Sao Tome and Principe,2036,5422.79,70.93,Highly Developed
+Sao Tome and Principe,2037,5619.11,72.5,Highly Developed
+Sao Tome and Principe,2038,5815.42,74.06,Highly Developed
+Sao Tome and Principe,2039,6011.73,75.63,Highly Developed
+Sao Tome and Principe,2040,6208.05,77.2,Highly Developed
+Saudi Arabia,2025,37359.78,75.46,Highly Developed
+Saudi Arabia,2026,38704.08,76.78,Highly Developed
+Saudi Arabia,2027,40048.38,78.11,Highly Developed
+Saudi Arabia,2028,41392.68,79.43,Highly Developed
+Saudi Arabia,2029,42736.98,80.75,Highly Developed
+Saudi Arabia,2030,44081.28,82.08,Highly Developed
+Saudi Arabia,2031,45425.57,83.4,Highly Developed
+Saudi Arabia,2032,46769.87,84.72,Highly Developed
+Saudi Arabia,2033,48114.17,86.05,Highly Developed
+Saudi Arabia,2034,49458.47,87.37,Highly Developed
+Saudi Arabia,2035,50802.77,88.69,Highly Developed
+Saudi Arabia,2036,52147.07,90.02,Highly Developed
+Saudi Arabia,2037,53491.37,91.34,Highly Developed
+Saudi Arabia,2038,54835.67,92.66,Highly Developed
+Saudi Arabia,2039,56179.97,93.99,Highly Developed
+Saudi Arabia,2040,57524.27,95.31,Highly Developed
+Senegal,2025,1759.25,51.12,Developing
+Senegal,2026,1806.57,53.71,Developing
+Senegal,2027,1853.9,56.3,Developing
+Senegal,2028,1901.22,58.89,Developing
+Senegal,2029,1948.55,61.48,Developing
+Senegal,2030,1995.87,64.07,Developing
+Senegal,2031,2043.19,66.67,Developing
+Senegal,2032,2090.52,69.26,Developing
+Senegal,2033,2137.84,71.85,Highly Developed
+Senegal,2034,2185.17,74.44,Highly Developed
+Senegal,2035,2232.49,77.03,Highly Developed
+Senegal,2036,2279.81,79.62,Highly Developed
+Senegal,2037,2327.14,82.21,Highly Developed
+Senegal,2038,2374.46,84.8,Highly Developed
+Senegal,2039,2421.79,87.39,Highly Developed
+Senegal,2040,2469.11,89.98,Highly Developed
+Serbia,2025,12869.23,65.73,Developing
+Serbia,2026,13585.04,66.93,Developing
+Serbia,2027,14300.85,68.13,Developing
+Serbia,2028,15016.66,69.33,Developing
+Serbia,2029,15732.48,70.52,Highly Developed
+Serbia,2030,16448.29,71.72,Highly Developed
+Serbia,2031,17164.1,72.92,Highly Developed
+Serbia,2032,17879.91,74.12,Highly Developed
+Serbia,2033,18595.73,75.32,Highly Developed
+Serbia,2034,19311.54,76.52,Highly Developed
+Serbia,2035,20027.35,77.71,Highly Developed
+Serbia,2036,20743.16,78.91,Highly Developed
+Serbia,2037,21458.98,80.11,Highly Developed
+Serbia,2038,22174.79,81.31,Highly Developed
+Serbia,2039,22890.6,82.51,Highly Developed
+Serbia,2040,23606.41,83.71,Highly Developed
+Seychelles,2025,17638.65,66.73,Developing
+Seychelles,2026,17788.53,68.04,Developing
+Seychelles,2027,17938.41,69.36,Developing
+Seychelles,2028,18088.3,70.67,Highly Developed
+Seychelles,2029,18238.18,71.99,Highly Developed
+Seychelles,2030,18388.06,73.3,Highly Developed
+Seychelles,2031,18537.94,74.62,Highly Developed
+Seychelles,2032,18687.82,75.93,Highly Developed
+Seychelles,2033,18837.7,77.25,Highly Developed
+Seychelles,2034,18987.58,78.56,Highly Developed
+Seychelles,2035,19137.47,79.88,Highly Developed
+Seychelles,2036,19287.35,81.19,Highly Developed
+Seychelles,2037,19437.23,82.51,Highly Developed
+Seychelles,2038,19587.11,83.82,Highly Developed
+Seychelles,2039,19736.99,85.13,Highly Developed
+Seychelles,2040,19886.87,86.45,Highly Developed
+Sierra Leone,2025,752.64,42.61,Developing
+Sierra Leone,2026,733.36,45.53,Developing
+Sierra Leone,2027,714.08,48.46,Developing
+Sierra Leone,2028,694.8,51.38,Developing
+Sierra Leone,2029,675.52,54.3,Developing
+Sierra Leone,2030,656.24,57.23,Developing
+Sierra Leone,2031,636.96,60.15,Developing
+Sierra Leone,2032,617.68,63.08,Developing
+Sierra Leone,2033,598.4,66.0,Developing
+Sierra Leone,2034,579.12,68.93,Developing
+Sierra Leone,2035,559.84,71.85,Highly Developed
+Sierra Leone,2036,540.56,74.78,Highly Developed
+Sierra Leone,2037,521.28,77.7,Highly Developed
+Sierra Leone,2038,502.0,80.63,Highly Developed
+Sierra Leone,2039,482.72,83.55,Highly Developed
+Sierra Leone,2040,463.44,86.47,Highly Developed
+Singapore,2025,92921.31,79.54,Highly Developed
+Singapore,2026,96709.14,80.35,Highly Developed
+Singapore,2027,100496.97,81.16,Highly Developed
+Singapore,2028,104284.8,81.98,Highly Developed
+Singapore,2029,108072.63,82.79,Highly Developed
+Singapore,2030,111860.46,83.6,Highly Developed
+Singapore,2031,115648.3,84.42,Highly Developed
+Singapore,2032,119436.13,85.23,Highly Developed
+Singapore,2033,123223.96,86.04,Highly Developed
+Singapore,2034,127011.79,86.86,Highly Developed
+Singapore,2035,130799.62,87.67,Highly Developed
+Singapore,2036,134587.45,88.49,Highly Developed
+Singapore,2037,138375.29,89.3,Highly Developed
+Singapore,2038,142163.12,90.11,Highly Developed
+Singapore,2039,145950.95,90.93,Highly Developed
+Singapore,2040,149738.78,91.74,Highly Developed
+Slovenia,2025,33623.48,72.01,Highly Developed
+Slovenia,2026,34817.24,72.82,Highly Developed
+Slovenia,2027,36011.0,73.63,Highly Developed
+Slovenia,2028,37204.76,74.43,Highly Developed
+Slovenia,2029,38398.52,75.24,Highly Developed
+Slovenia,2030,39592.28,76.05,Highly Developed
+Slovenia,2031,40786.04,76.85,Highly Developed
+Slovenia,2032,41979.8,77.66,Highly Developed
+Slovenia,2033,43173.56,78.47,Highly Developed
+Slovenia,2034,44367.32,79.28,Highly Developed
+Slovenia,2035,45561.08,80.08,Highly Developed
+Slovenia,2036,46754.84,80.89,Highly Developed
+Slovenia,2037,47948.6,81.7,Highly Developed
+Slovenia,2038,49142.36,82.51,Highly Developed
+Slovenia,2039,50336.12,83.31,Highly Developed
+Slovenia,2040,51529.88,84.12,Highly Developed
+Solomon Islands,2025,1912.4,45.18,Developing
+Solomon Islands,2026,1886.6,45.89,Developing
+Solomon Islands,2027,1860.8,46.6,Developing
+Solomon Islands,2028,1835.0,47.32,Developing
+Solomon Islands,2029,1809.21,48.03,Developing
+Solomon Islands,2030,1783.41,48.74,Developing
+Solomon Islands,2031,1757.61,49.45,Developing
+Solomon Islands,2032,1731.81,50.16,Developing
+Solomon Islands,2033,1706.01,50.87,Developing
+Solomon Islands,2034,1680.21,51.59,Developing
+Solomon Islands,2035,1654.41,52.3,Developing
+Solomon Islands,2036,1628.61,53.01,Developing
+Solomon Islands,2037,1602.81,53.72,Developing
+Solomon Islands,2038,1577.01,54.43,Developing
+Solomon Islands,2039,1551.21,55.14,Developing
+Solomon Islands,2040,1525.41,55.85,Developing
+South Africa,2025,6274.32,51.99,Developing
+South Africa,2026,6260.47,52.93,Developing
+South Africa,2027,6246.62,53.88,Developing
+South Africa,2028,6232.77,54.83,Developing
+South Africa,2029,6218.92,55.77,Developing
+South Africa,2030,6205.08,56.72,Developing
+South Africa,2031,6191.23,57.67,Developing
+South Africa,2032,6177.38,58.61,Developing
+South Africa,2033,6163.53,59.56,Developing
+South Africa,2034,6149.68,60.51,Developing
+South Africa,2035,6135.83,61.45,Developing
+South Africa,2036,6121.99,62.4,Developing
+South Africa,2037,6108.14,63.35,Developing
+South Africa,2038,6094.29,64.29,Developing
+South Africa,2039,6080.44,65.24,Developing
+South Africa,2040,6066.59,66.18,Developing
+Spain,2025,33687.96,72.7,Highly Developed
+Spain,2026,34327.03,73.51,Highly Developed
+Spain,2027,34966.1,74.32,Highly Developed
+Spain,2028,35605.17,75.13,Highly Developed
+Spain,2029,36244.24,75.94,Highly Developed
+Spain,2030,36883.31,76.75,Highly Developed
+Spain,2031,37522.38,77.56,Highly Developed
+Spain,2032,38161.45,78.37,Highly Developed
+Spain,2033,38800.51,79.19,Highly Developed
+Spain,2034,39439.58,80.0,Highly Developed
+Spain,2035,40078.65,80.81,Highly Developed
+Spain,2036,40717.72,81.62,Highly Developed
+Spain,2037,41356.79,82.43,Highly Developed
+Spain,2038,41995.86,83.24,Highly Developed
+Spain,2039,42634.93,84.05,Highly Developed
+Spain,2040,43274.0,84.86,Highly Developed
+Sri Lanka,2025,3935.34,55.24,Developing
+Sri Lanka,2026,3916.68,56.6,Developing
+Sri Lanka,2027,3898.03,57.96,Developing
+Sri Lanka,2028,3879.37,59.32,Developing
+Sri Lanka,2029,3860.71,60.68,Developing
+Sri Lanka,2030,3842.06,62.04,Developing
+Sri Lanka,2031,3823.4,63.4,Developing
+Sri Lanka,2032,3804.75,64.75,Developing
+Sri Lanka,2033,3786.09,66.11,Developing
+Sri Lanka,2034,3767.43,67.47,Developing
+Sri Lanka,2035,3748.78,68.83,Developing
+Sri Lanka,2036,3730.12,70.19,Highly Developed
+Sri Lanka,2037,3711.47,71.55,Highly Developed
+Sri Lanka,2038,3692.81,72.91,Highly Developed
+Sri Lanka,2039,3674.15,74.26,Highly Developed
+Sri Lanka,2040,3655.5,75.62,Highly Developed
+Sudan,2025,699.28,54.02,Developing
+Sudan,2026,662.4,55.47,Developing
+Sudan,2027,625.51,56.92,Developing
+Sudan,2028,588.62,58.37,Developing
+Sudan,2029,551.74,59.82,Developing
+Sudan,2030,514.85,61.27,Developing
+Sudan,2031,477.97,62.72,Developing
+Sudan,2032,441.08,64.17,Developing
+Sudan,2033,404.19,65.62,Developing
+Sudan,2034,367.31,67.07,Developing
+Sudan,2035,330.42,68.52,Developing
+Sudan,2036,293.54,69.98,Developing
+Sudan,2037,256.65,71.43,Highly Developed
+Sudan,2038,219.76,72.88,Highly Developed
+Sudan,2039,182.88,74.33,Highly Developed
+Sudan,2040,145.99,75.78,Highly Developed
+Suriname,2025,5031.62,59.23,Developing
+Suriname,2026,4790.46,60.43,Developing
+Suriname,2027,4549.3,61.64,Developing
+Suriname,2028,4308.14,62.84,Developing
+Suriname,2029,4066.98,64.05,Developing
+Suriname,2030,3825.82,65.25,Developing
+Suriname,2031,3584.67,66.46,Developing
+Suriname,2032,3343.51,67.66,Developing
+Suriname,2033,3102.35,68.87,Developing
+Suriname,2034,2861.19,70.07,Highly Developed
+Suriname,2035,2620.03,71.28,Highly Developed
+Suriname,2036,2378.87,72.48,Highly Developed
+Suriname,2037,2137.71,73.69,Highly Developed
+Suriname,2038,1896.55,74.89,Highly Developed
+Suriname,2039,1655.39,76.1,Highly Developed
+Suriname,2040,1414.23,77.3,Highly Developed
+Sweden,2025,56072.7,74.0,Highly Developed
+Sweden,2026,56304.91,74.16,Highly Developed
+Sweden,2027,56537.13,74.31,Highly Developed
+Sweden,2028,56769.34,74.47,Highly Developed
+Sweden,2029,57001.55,74.63,Highly Developed
+Sweden,2030,57233.77,74.78,Highly Developed
+Sweden,2031,57465.98,74.94,Highly Developed
+Sweden,2032,57698.2,75.09,Highly Developed
+Sweden,2033,57930.41,75.25,Highly Developed
+Sweden,2034,58162.62,75.41,Highly Developed
+Sweden,2035,58394.84,75.56,Highly Developed
+Sweden,2036,58627.05,75.72,Highly Developed
+Sweden,2037,58859.26,75.87,Highly Developed
+Sweden,2038,59091.48,76.03,Highly Developed
+Sweden,2039,59323.69,76.19,Highly Developed
+Sweden,2040,59555.91,76.34,Highly Developed
+Switzerland,2025,100652.09,80.5,Highly Developed
+Switzerland,2026,102505.36,81.02,Highly Developed
+Switzerland,2027,104358.63,81.54,Highly Developed
+Switzerland,2028,106211.9,82.05,Highly Developed
+Switzerland,2029,108065.17,82.57,Highly Developed
+Switzerland,2030,109918.44,83.08,Highly Developed
+Switzerland,2031,111771.72,83.6,Highly Developed
+Switzerland,2032,113624.99,84.12,Highly Developed
+Switzerland,2033,115478.26,84.63,Highly Developed
+Switzerland,2034,117331.53,85.15,Highly Developed
+Switzerland,2035,119184.8,85.66,Highly Developed
+Switzerland,2036,121038.08,86.18,Highly Developed
+Switzerland,2037,122891.35,86.7,Highly Developed
+Switzerland,2038,124744.62,87.21,Highly Developed
+Switzerland,2039,126597.89,87.73,Highly Developed
+Switzerland,2040,128451.16,88.24,Highly Developed
+Tajikistan,2025,1139.14,51.11,Developing
+Tajikistan,2026,1167.41,52.4,Developing
+Tajikistan,2027,1195.68,53.68,Developing
+Tajikistan,2028,1223.95,54.96,Developing
+Tajikistan,2029,1252.22,56.25,Developing
+Tajikistan,2030,1280.49,57.53,Developing
+Tajikistan,2031,1308.76,58.82,Developing
+Tajikistan,2032,1337.03,60.1,Developing
+Tajikistan,2033,1365.29,61.38,Developing
+Tajikistan,2034,1393.56,62.67,Developing
+Tajikistan,2035,1421.83,63.95,Developing
+Tajikistan,2036,1450.1,65.24,Developing
+Tajikistan,2037,1478.37,66.52,Developing
+Tajikistan,2038,1506.64,67.8,Developing
+Tajikistan,2039,1534.91,69.09,Developing
+Tajikistan,2040,1563.18,70.37,Highly Developed
+Tanzania,2025,1252.88,43.17,Developing
+Tanzania,2026,1281.63,44.3,Developing
+Tanzania,2027,1310.39,45.44,Developing
+Tanzania,2028,1339.15,46.57,Developing
+Tanzania,2029,1367.91,47.7,Developing
+Tanzania,2030,1396.67,48.84,Developing
+Tanzania,2031,1425.43,49.97,Developing
+Tanzania,2032,1454.19,51.1,Developing
+Tanzania,2033,1482.95,52.24,Developing
+Tanzania,2034,1511.71,53.37,Developing
+Tanzania,2035,1540.47,54.5,Developing
+Tanzania,2036,1569.23,55.64,Developing
+Tanzania,2037,1597.99,56.77,Developing
+Tanzania,2038,1626.75,57.9,Developing
+Tanzania,2039,1655.51,59.03,Developing
+Tanzania,2040,1684.27,60.17,Developing
+Thailand,2025,7711.66,70.2,Highly Developed
+Thailand,2026,7876.69,71.9,Highly Developed
+Thailand,2027,8041.72,73.6,Highly Developed
+Thailand,2028,8206.75,75.31,Highly Developed
+Thailand,2029,8371.79,77.01,Highly Developed
+Thailand,2030,8536.82,78.71,Highly Developed
+Thailand,2031,8701.85,80.41,Highly Developed
+Thailand,2032,8866.88,82.11,Highly Developed
+Thailand,2033,9031.91,83.82,Highly Developed
+Thailand,2034,9196.95,85.52,Highly Developed
+Thailand,2035,9361.98,87.22,Highly Developed
+Thailand,2036,9527.01,88.92,Highly Developed
+Thailand,2037,9692.04,90.63,Highly Developed
+Thailand,2038,9857.07,92.33,Highly Developed
+Thailand,2039,10022.11,94.03,Highly Developed
+Thailand,2040,10187.14,95.73,Highly Developed
+Timor-Leste,2025,1995.0,55.2,Developing
+Timor-Leste,2026,2063.54,57.6,Developing
+Timor-Leste,2027,2132.08,60.0,Developing
+Timor-Leste,2028,2200.62,62.41,Developing
+Timor-Leste,2029,2269.16,64.81,Developing
+Timor-Leste,2030,2337.7,67.21,Developing
+Timor-Leste,2031,2406.24,69.62,Developing
+Timor-Leste,2032,2474.78,72.02,Highly Developed
+Timor-Leste,2033,2543.32,74.43,Highly Developed
+Timor-Leste,2034,2611.86,76.83,Highly Developed
+Timor-Leste,2035,2680.4,79.23,Highly Developed
+Timor-Leste,2036,2748.94,81.64,Highly Developed
+Timor-Leste,2037,2817.48,84.04,Highly Developed
+Timor-Leste,2038,2886.02,86.44,Highly Developed
+Timor-Leste,2039,2954.56,88.85,Highly Developed
+Timor-Leste,2040,3023.1,91.25,Highly Developed
+Togo,2025,1077.6,42.84,Developing
+Togo,2026,1108.71,44.53,Developing
+Togo,2027,1139.81,46.23,Developing
+Togo,2028,1170.92,47.92,Developing
+Togo,2029,1202.03,49.61,Developing
+Togo,2030,1233.13,51.3,Developing
+Togo,2031,1264.24,53.0,Developing
+Togo,2032,1295.35,54.69,Developing
+Togo,2033,1326.46,56.38,Developing
+Togo,2034,1357.56,58.08,Developing
+Togo,2035,1388.67,59.77,Developing
+Togo,2036,1419.78,61.46,Developing
+Togo,2037,1450.88,63.15,Developing
+Togo,2038,1481.99,64.85,Developing
+Togo,2039,1513.1,66.54,Developing
+Togo,2040,1544.2,68.23,Developing
+Tonga,2025,5791.17,58.04,Developing
+Tonga,2026,5962.5,59.11,Developing
+Tonga,2027,6133.84,60.18,Developing
+Tonga,2028,6305.17,61.25,Developing
+Tonga,2029,6476.51,62.32,Developing
+Tonga,2030,6647.84,63.4,Developing
+Tonga,2031,6819.18,64.47,Developing
+Tonga,2032,6990.52,65.54,Developing
+Tonga,2033,7161.85,66.61,Developing
+Tonga,2034,7333.19,67.68,Developing
+Tonga,2035,7504.52,68.75,Developing
+Tonga,2036,7675.86,69.83,Developing
+Tonga,2037,7847.19,70.9,Highly Developed
+Tonga,2038,8018.53,71.97,Highly Developed
+Tonga,2039,8189.87,73.04,Highly Developed
+Tonga,2040,8361.2,74.11,Highly Developed
+Tunisia,2025,3768.28,56.79,Developing
+Tunisia,2026,3754.01,57.77,Developing
+Tunisia,2027,3739.74,58.75,Developing
+Tunisia,2028,3725.47,59.74,Developing
+Tunisia,2029,3711.2,60.72,Developing
+Tunisia,2030,3696.93,61.71,Developing
+Tunisia,2031,3682.66,62.69,Developing
+Tunisia,2032,3668.39,63.68,Developing
+Tunisia,2033,3654.12,64.66,Developing
+Tunisia,2034,3639.85,65.65,Developing
+Tunisia,2035,3625.58,66.63,Developing
+Tunisia,2036,3611.31,67.61,Developing
+Tunisia,2037,3597.04,68.6,Developing
+Tunisia,2038,3582.77,69.58,Developing
+Tunisia,2039,3568.5,70.57,Highly Developed
+Tunisia,2040,3554.23,71.55,Highly Developed
+Turkmenistan,2025,6131.81,61.15,Developing
+Turkmenistan,2026,6135.83,62.95,Developing
+Turkmenistan,2027,6139.85,64.75,Developing
+Turkmenistan,2028,6143.86,66.56,Developing
+Turkmenistan,2029,6147.88,68.36,Developing
+Turkmenistan,2030,6151.9,70.16,Highly Developed
+Turkmenistan,2031,6155.92,71.97,Highly Developed
+Turkmenistan,2032,6159.94,73.77,Highly Developed
+Turkmenistan,2033,6163.96,75.57,Highly Developed
+Turkmenistan,2034,6167.98,77.38,Highly Developed
+Turkmenistan,2035,6172.0,79.18,Highly Developed
+Turkmenistan,2036,6176.02,80.98,Highly Developed
+Turkmenistan,2037,6180.04,82.79,Highly Developed
+Turkmenistan,2038,6184.06,84.59,Highly Developed
+Turkmenistan,2039,6188.08,86.39,Highly Developed
+Turkmenistan,2040,6192.1,88.2,Highly Developed
+Tuvalu,2025,6883.53,58.52,Developing
+Tuvalu,2026,7213.75,60.16,Developing
+Tuvalu,2027,7543.97,61.81,Developing
+Tuvalu,2028,7874.18,63.46,Developing
+Tuvalu,2029,8204.4,65.1,Developing
+Tuvalu,2030,8534.62,66.75,Developing
+Tuvalu,2031,8864.84,68.39,Developing
+Tuvalu,2032,9195.06,70.04,Highly Developed
+Tuvalu,2033,9525.28,71.69,Highly Developed
+Tuvalu,2034,9855.5,73.33,Highly Developed
+Tuvalu,2035,10185.72,74.98,Highly Developed
+Tuvalu,2036,10515.94,76.63,Highly Developed
+Tuvalu,2037,10846.15,78.27,Highly Developed
+Tuvalu,2038,11176.37,79.92,Highly Developed
+Tuvalu,2039,11506.59,81.56,Highly Developed
+Tuvalu,2040,11836.81,83.21,Highly Developed
+Uganda,2025,1008.64,35.09,Underdeveloped
+Uganda,2026,1030.34,35.6,Underdeveloped
+Uganda,2027,1052.04,36.11,Underdeveloped
+Uganda,2028,1073.73,36.62,Underdeveloped
+Uganda,2029,1095.43,37.13,Underdeveloped
+Uganda,2030,1117.13,37.64,Underdeveloped
+Uganda,2031,1138.82,38.15,Underdeveloped
+Uganda,2032,1160.52,38.67,Underdeveloped
+Uganda,2033,1182.22,39.18,Underdeveloped
+Uganda,2034,1203.91,39.69,Underdeveloped
+Uganda,2035,1225.61,40.2,Developing
+Uganda,2036,1247.31,40.71,Developing
+Uganda,2037,1269.0,41.22,Developing
+Uganda,2038,1290.7,41.73,Developing
+Uganda,2039,1312.4,42.24,Developing
+Uganda,2040,1334.1,42.75,Developing
+Ukraine,2025,5526.19,64.19,Developing
+Ukraine,2026,5844.11,65.97,Developing
+Ukraine,2027,6162.03,67.75,Developing
+Ukraine,2028,6479.94,69.54,Developing
+Ukraine,2029,6797.86,71.32,Highly Developed
+Ukraine,2030,7115.78,73.1,Highly Developed
+Ukraine,2031,7433.7,74.88,Highly Developed
+Ukraine,2032,7751.62,76.67,Highly Developed
+Ukraine,2033,8069.53,78.45,Highly Developed
+Ukraine,2034,8387.45,80.23,Highly Developed
+Ukraine,2035,8705.37,82.01,Highly Developed
+Ukraine,2036,9023.29,83.79,Highly Developed
+Ukraine,2037,9341.21,85.58,Highly Developed
+Ukraine,2038,9659.12,87.36,Highly Developed
+Ukraine,2039,9977.04,89.14,Highly Developed
+Ukraine,2040,10294.96,90.92,Highly Developed
+United Arab Emirates,2025,47645.95,77.58,Highly Developed
+United Arab Emirates,2026,47857.26,78.16,Highly Developed
+United Arab Emirates,2027,48068.58,78.74,Highly Developed
+United Arab Emirates,2028,48279.9,79.33,Highly Developed
+United Arab Emirates,2029,48491.21,79.91,Highly Developed
+United Arab Emirates,2030,48702.53,80.5,Highly Developed
+United Arab Emirates,2031,48913.85,81.08,Highly Developed
+United Arab Emirates,2032,49125.17,81.67,Highly Developed
+United Arab Emirates,2033,49336.48,82.25,Highly Developed
+United Arab Emirates,2034,49547.8,82.83,Highly Developed
+United Arab Emirates,2035,49759.12,83.42,Highly Developed
+United Arab Emirates,2036,49970.44,84.0,Highly Developed
+United Arab Emirates,2037,50181.75,84.59,Highly Developed
+United Arab Emirates,2038,50393.07,85.17,Highly Developed
+United Arab Emirates,2039,50604.39,85.76,Highly Developed
+United Arab Emirates,2040,50815.7,86.34,Highly Developed
+United Kingdom,2025,49579.82,72.68,Highly Developed
+United Kingdom,2026,50255.39,72.88,Highly Developed
+United Kingdom,2027,50930.97,73.08,Highly Developed
+United Kingdom,2028,51606.54,73.28,Highly Developed
+United Kingdom,2029,52282.12,73.49,Highly Developed
+United Kingdom,2030,52957.7,73.69,Highly Developed
+United Kingdom,2031,53633.27,73.89,Highly Developed
+United Kingdom,2032,54308.85,74.09,Highly Developed
+United Kingdom,2033,54984.42,74.29,Highly Developed
+United Kingdom,2034,55660.0,74.49,Highly Developed
+United Kingdom,2035,56335.58,74.7,Highly Developed
+United Kingdom,2036,57011.15,74.9,Highly Developed
+United Kingdom,2037,57686.73,75.1,Highly Developed
+United Kingdom,2038,58362.3,75.3,Highly Developed
+United Kingdom,2039,59037.88,75.5,Highly Developed
+United Kingdom,2040,59713.46,75.7,Highly Developed
+United States,2025,84265.7,75.56,Highly Developed
+United States,2026,87218.92,76.43,Highly Developed
+United States,2027,90172.14,77.29,Highly Developed
+United States,2028,93125.36,78.16,Highly Developed
+United States,2029,96078.57,79.03,Highly Developed
+United States,2030,99031.79,79.9,Highly Developed
+United States,2031,101985.01,80.76,Highly Developed
+United States,2032,104938.23,81.63,Highly Developed
+United States,2033,107891.44,82.5,Highly Developed
+United States,2034,110844.66,83.37,Highly Developed
+United States,2035,113797.88,84.23,Highly Developed
+United States,2036,116751.09,85.1,Highly Developed
+United States,2037,119704.31,85.97,Highly Developed
+United States,2038,122657.53,86.84,Highly Developed
+United States,2039,125610.75,87.7,Highly Developed
+United States,2040,128563.96,88.57,Highly Developed
+Uruguay,2025,22244.19,70.82,Highly Developed
+Uruguay,2026,22760.77,71.92,Highly Developed
+Uruguay,2027,23277.34,73.03,Highly Developed
+Uruguay,2028,23793.91,74.14,Highly Developed
+Uruguay,2029,24310.48,75.24,Highly Developed
+Uruguay,2030,24827.06,76.35,Highly Developed
+Uruguay,2031,25343.63,77.46,Highly Developed
+Uruguay,2032,25860.2,78.57,Highly Developed
+Uruguay,2033,26376.78,79.67,Highly Developed
+Uruguay,2034,26893.35,80.78,Highly Developed
+Uruguay,2035,27409.92,81.89,Highly Developed
+Uruguay,2036,27926.49,82.99,Highly Developed
+Uruguay,2037,28443.07,84.1,Highly Developed
+Uruguay,2038,28959.64,85.21,Highly Developed
+Uruguay,2039,29476.21,86.32,Highly Developed
+Uruguay,2040,29992.79,87.42,Highly Developed
+Uzbekistan,2025,2603.72,67.19,Developing
+Uzbekistan,2026,2626.58,69.01,Developing
+Uzbekistan,2027,2649.43,70.84,Highly Developed
+Uzbekistan,2028,2672.28,72.66,Highly Developed
+Uzbekistan,2029,2695.13,74.49,Highly Developed
+Uzbekistan,2030,2717.98,76.31,Highly Developed
+Uzbekistan,2031,2740.83,78.14,Highly Developed
+Uzbekistan,2032,2763.69,79.96,Highly Developed
+Uzbekistan,2033,2786.54,81.79,Highly Developed
+Uzbekistan,2034,2809.39,83.61,Highly Developed
+Uzbekistan,2035,2832.24,85.44,Highly Developed
+Uzbekistan,2036,2855.09,87.26,Highly Developed
+Uzbekistan,2037,2877.94,89.09,Highly Developed
+Uzbekistan,2038,2900.8,90.91,Highly Developed
+Uzbekistan,2039,2923.65,92.73,Highly Developed
+Uzbekistan,2040,2946.5,94.56,Highly Developed
+Vanuatu,2025,3470.49,58.22,Developing
+Vanuatu,2026,3522.06,59.32,Developing
+Vanuatu,2027,3573.63,60.42,Developing
+Vanuatu,2028,3625.2,61.53,Developing
+Vanuatu,2029,3676.77,62.63,Developing
+Vanuatu,2030,3728.33,63.73,Developing
+Vanuatu,2031,3779.9,64.84,Developing
+Vanuatu,2032,3831.47,65.94,Developing
+Vanuatu,2033,3883.04,67.04,Developing
+Vanuatu,2034,3934.61,68.15,Developing
+Vanuatu,2035,3986.18,69.25,Developing
+Vanuatu,2036,4037.75,70.35,Highly Developed
+Vanuatu,2037,4089.31,71.46,Highly Developed
+Vanuatu,2038,4140.88,72.56,Highly Developed
+Vanuatu,2039,4192.45,73.66,Highly Developed
+Vanuatu,2040,4244.02,74.77,Highly Developed
+Zambia,2025,1150.42,30.74,Underdeveloped
+Zambia,2026,1122.57,30.75,Underdeveloped
+Zambia,2027,1094.73,30.76,Underdeveloped
+Zambia,2028,1066.88,30.77,Underdeveloped
+Zambia,2029,1039.03,30.78,Underdeveloped
+Zambia,2030,1011.18,30.79,Underdeveloped
+Zambia,2031,983.34,30.8,Underdeveloped
+Zambia,2032,955.49,30.81,Underdeveloped
+Zambia,2033,927.64,30.82,Underdeveloped
+Zambia,2034,899.79,30.83,Underdeveloped
+Zambia,2035,871.94,30.84,Underdeveloped
+Zambia,2036,844.1,30.85,Underdeveloped
+Zambia,2037,816.25,30.87,Underdeveloped
+Zambia,2038,788.4,30.88,Underdeveloped
+Zambia,2039,760.55,30.89,Underdeveloped
+Zambia,2040,732.71,30.9,Underdeveloped
+Zimbabwe,2025,2744.47,40.59,Developing
+Zimbabwe,2026,2838.69,41.26,Developing
+Zimbabwe,2027,2932.9,41.93,Developing
+Zimbabwe,2028,3027.12,42.6,Developing
+Zimbabwe,2029,3121.33,43.27,Developing
+Zimbabwe,2030,3215.55,43.93,Developing
+Zimbabwe,2031,3309.76,44.6,Developing
+Zimbabwe,2032,3403.98,45.27,Developing
+Zimbabwe,2033,3498.2,45.94,Developing
+Zimbabwe,2034,3592.41,46.61,Developing
+Zimbabwe,2035,3686.63,47.27,Developing
+Zimbabwe,2036,3780.84,47.94,Developing
+Zimbabwe,2037,3875.06,48.61,Developing
+Zimbabwe,2038,3969.27,49.28,Developing
+Zimbabwe,2039,4063.49,49.95,Developing
+Zimbabwe,2040,4157.7,50.61,Developing
